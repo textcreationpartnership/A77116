@@ -1,0 +1,872 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The worthy of Ephratah represented in a sermon at the funerals of the Right Honorable Edmund Earl of Mulgrave, Baron Sheffield of Botterwic. In the church of Burton-Stather, Sept. 21. 1658. / By Edward Boteler, sometimes fellow of Magdalen-Colledge in Cambridge, and now rector of Wintringham in the county of Lincoln.</title>
+            <author>Boteler, Edward, d. 1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 94 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77116</idno>
+            <idno type="STC">Wing B3804</idno>
+            <idno type="STC">Thomason E2139_1</idno>
+            <idno type="STC">ESTC R208363</idno>
+            <idno type="EEBO-CITATION">99867320</idno>
+            <idno type="PROQUEST">99867320</idno>
+            <idno type="VID">119627</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119627)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 243:E2139[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The worthy of Ephratah represented in a sermon at the funerals of the Right Honorable Edmund Earl of Mulgrave, Baron Sheffield of Botterwic. In the church of Burton-Stather, Sept. 21. 1658. / By Edward Boteler, sometimes fellow of Magdalen-Colledge in Cambridge, and now rector of Wintringham in the county of Lincoln.</title>
+                  <author>Boteler, Edward, d. 1670.</author>
+               </titleStmt>
+               <extent>[24], 60, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for G. Bedell and T. Collins, and are to be sold at their shop at the Middle-Temple-Gate in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page metal cut.</note>
+                  <note>The first leaf and the last two leaves are blank.</note>
+                  <note>Annotation on Thomason copy: "octob:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mulgrave, Edmund Sheffield, --  Earl of, d. 1658 --  Early works to 1800.</term>
+               <term>Funeral sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119627:1" rendition="simple:additions"/>
+            <p>The Worthy of Ephratah: REPRESENTED In a <hi>SERMON</hi> at the Funerals of the Right Honorable EDMUND Earl of MULGRAVE, Baron <hi>Sheffield</hi> of <hi>Botterwic.</hi> In the Church of <hi>Burton-Stather, Sept.</hi> 21. 1658.</p>
+            <p>By <hi>EDWARD BOTELER,</hi> ſometimes Fellow of <hi>Magdalen</hi>-Colledge in <hi>Cambridge,</hi> and now Rector of <hi>Wintringham</hi> in the County of <hi>Lincoln.</hi>
+            </p>
+            <figure>
+               <figDesc>coat of arms with three sheaves of wheat</figDesc>
+            </figure>
+            <q>
+               <bibl>PSAL. 126.6.</bibl> He ſhall doubtleſs come again with rejoicings and bring his ſheaves with him.</q>
+            <p>
+               <hi>London;</hi> Printed by <hi>T.N.</hi> for <hi>G. Bedell</hi> and <hi>T. Collins,</hi> and are ſold at their Shop at the <hi>Middle-Temple</hi>-Gate in <hi>Fleetſtreet.</hi> 1659.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119627:2"/>
+            <pb facs="tcp:119627:2"/>
+            <head>To the Right Honorable, ELIZABETH COUNTESS OF <hi>M<g ref="char:V">Ʋ</g>LGRAVE,</hi> The Pious Relict of EDMUND late Earl of MULGRAVE and Baron of BOT<g ref="char:EOLhyphen"/>TERWIC.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>IT ſuits not with an home<g ref="char:EOLhyphen"/>ſpun garment to be faced with cloth of gold or ſil<g ref="char:EOLhyphen"/>ver: Nor ſhould this poor Piece have preſumed to wear
+<pb facs="tcp:119627:3"/>your honorable Name to the world, were it not that ſo much of your Ladiſhips intereſt is bound up with it. You have a right in what was your Lords; and behold here an Inventory of his beſt and choiſeſt Goods!</p>
+            <p>Your Ladiſhip may pleaſe to read theſe Sheets without fear of diſcompoſure, without ſhrinking in, or giving back at the ſuſpition of any cutting and doleful expreſsions in them; for they will ſhew you more White in the gracious Life of your deceaſed LORD, then will chequer all the
+<pb facs="tcp:119627:3"/>Blacks of his Death and Funerals.</p>
+            <p>Were there nothing but the voice of the Turtle to be heard in the Text,
+<note place="margin">Cant. 2.12.</note> and were the Ser<g ref="char:EOLhyphen"/>mon, like <hi>Ezekiel's</hi> Roll,
+<note place="margin">Ezek. 2.10.</note> 
+               <hi>all written within and without, Lamentations, and mourn<g ref="char:EOLhyphen"/>ing and woe;</hi> I would have ſent no ſuch company to knock at the door of your Cloſet, where I know, Privacie and Paſsion would have been too hearty in their entertainment, and har<g ref="char:EOLhyphen"/>bored ſuch Gueſts till they had becom Inmates. I would wound no hearts, and melt no eyes but
+<pb facs="tcp:119627:4"/>for ſin: God hath a bottle for ſuch tears, and a book for ſuch groans, when all the floods of worldly ſorrows, which wander and run out into other chanels, ſhall be but like thoſe tears in <hi>Eccleſiaſtes,</hi>
+               <note place="margin">ch. 4.1.</note> which found no comforter.</p>
+            <p>Bleſſed be God, even the Father of our Lord Jeſus Chriſt,
+<note place="margin">2 Cor. 1.3, 4.</note> the Father of mercies and the God of all comfort, who hath comforted you in your tribulations; ſo that you are not put to it at the taking away of your Lord, as <hi>Micah</hi> was at the taking away of his gods;
+<pb facs="tcp:119627:4"/>
+               <hi>You have taken away my gods, and what have I more?</hi>
+               <note place="margin">Judg. 18.24.</note> God hath taken away one of your Lords, and you have an<g ref="char:EOLhyphen"/>other Lord for him, (long may you have him!) a Lord of your womb, for the Lord of your boſom.</p>
+            <p>And how gracious was the method of this mercy, God giving you this young Lord in hand (that I may ſo ſpeak) for ſome years before he took t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> other from you? How did he ſeem herein to conſult your comfort and eſtabliſh<g ref="char:EOLhyphen"/>ment, providing thereby a<g ref="char:EOLhyphen"/>gainſt
+<pb facs="tcp:119627:5"/>all future diffidence and deſpondencies, that you might put your ſelf into a poſture of ſpiritual ſtrength, whereby to ſtand with faith and patience unbroken, receiving with courage that ſhock of ſorrows, which is come upon you in this day of your rebuke and trouble.</p>
+            <p>So that, <hi>Madam,</hi> your comfort is exchanged only, not taken away; and you have great cauſe freely to truſt that God, of whom you have had ſo friendly a trial.
+<note place="margin">Pſ. 9.10.</note> 
+               <hi>They that know his name, will truſt
+<pb facs="tcp:119627:5"/>in him.</hi> You cannot fall, by leaning upon him: <hi>He will keep them in perfect peace,</hi>
+               <note place="margin">Iſa. 26.3.</note> 
+               <hi>whoſe minds are ſtayed on him.</hi>
+            </p>
+            <p>Thus your Ladiſhip, by fre<g ref="char:EOLhyphen"/>quent removals of your mind from a dead Lord to the living God, will happily loſe your loſſes in ſuch delightful and comprehenſive thoughts; and at length ſee little, or nothing of your ſufferings, for the p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enty and ſuperabundance of your reparations.</p>
+            <p>Alas! Comforts in the Crea<g ref="char:EOLhyphen"/>tures taſte of the cask, and are
+<pb facs="tcp:119627:6"/>tainted with mortality at leaſt; in God they are ſweet, and living, like waters in their fountain: And thoſe fading excellencies which lie ſcattered in them, Honor in one, Wiſdom in another, are all immaſſed and laid up in him as in their treaſury. Some ſprinklings of happineſs may a while ſojourn in them, but in him all fulneſs dwells. Whatſoever is good in it ſelf or in others, is advanced to a better being, is best in him. Make him your ſtrength, and you have Allſufficiencie; lay up your life in him, and it is
+<pb facs="tcp:119627:6"/>Immortality: Affect his beauty, and you are in love with Ma<g ref="char:EOLhyphen"/>jeſty; Match your ſoul with him, and they are the eſpouſals of Eternity.</p>
+            <p>
+               <hi>Madam,</hi> I am neither worthy to counſel, or comfort you; I know you are better provided: Only, I preſume (being firſt commanded by your Honor to this under<g ref="char:EOLhyphen"/>taking) to be your humble Remembrancer, that you will make uſe of thoſe graces which are now eſpecially in ſeaſon, uſeful moſt at ſuch a time as this, and moſt proper for the
+<pb facs="tcp:119627:7"/>conjuncture: Reſignation of your will, is your great work: Be in ſubjection to the Father of ſpirits,
+<note place="margin">Heb. 12.9.</note> and live.</p>
+            <p>Live in patience, die in peace, lie down in hope, riſe in honor, and reign in glory!</p>
+            <closer>
+               <signed>Your HONOR'S moſt obliged humble Servant, E. BOTELE<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+         <div xml:lang="lat" type="memorial">
+            <pb facs="tcp:119627:7"/>
+            <head>Illuſtriſſimum Dominum, Dominum EDMUNDUM, COMITEM Mulgravium, Inſobili funere raptum, &amp; pub<g ref="char:EOLhyphen"/>licis hiſce exequiis ite<g ref="char:EOLhyphen"/>rum elatum, Unà cum <hi>BOTELERIO</hi> ſuo comitatur, atque ex animo deflet, <hi>Johannes Merryweather.</hi>
+            </head>
+            <p>FUnere Mulgravienſi denuò pro<g ref="char:EOLhyphen"/>deunte, fletus denuò planctúſque poſci haud immeritò videmur: Liceat per te, Heroina pientiſſi<g ref="char:EOLhyphen"/>ma, lachrymis penè tandem &amp; aegri<g ref="char:EOLhyphen"/>tudine confecta; liceat, ſuaviſſime no<g ref="char:EOLhyphen"/>biliſſiméque Comes, praeſentis ſaeculi
+<pb facs="tcp:119627:8"/>palàm deliciae, futuri future decus, vul<g ref="char:EOLhyphen"/>nus illud infandum longéque acerbiſſi<g ref="char:EOLhyphen"/>mum animo ſaltem &amp; cogitatione lu<g ref="char:EOLhyphen"/>gubri aliquantiſper retegere, ut nè Ju<g ref="char:EOLhyphen"/>ſtis unquam ſuis deſtituantur Mulgravi<g ref="char:EOLhyphen"/>enſes exequiae.</p>
+            <p>Atque hìc ſanè eſt, ubi linguas o<g ref="char:EOLhyphen"/>mnium, quicquid uſpiam eſt, Chry<g ref="char:EOLhyphen"/>ſoſtomorum, Stentoríſque alicujus la<g ref="char:EOLhyphen"/>tera mihi dari velim; ut, omnibus quid perdiderint ritè edoctis, univer<g ref="char:EOLhyphen"/>ſos undecunque Anglos ad luctus con<g ref="char:EOLhyphen"/>ciam: ut publicè nunc demum elato <hi>MULGRAVIO,</hi> publicitùs ad<g ref="char:EOLhyphen"/>veniat luctus, publici ſummittantur gemitus. Commune, dum vixit, bo<g ref="char:EOLhyphen"/>num fuit: commune, cùm moritur, damnum.</p>
+            <p>Sed benè, quod nec linguis, nec lateribus opus eſt. Nôrunt jandu<g ref="char:EOLhyphen"/>dum ſatis ſuperque omnes, quae damna fecerint; nec quenquam arbitror in Iſraele hoc noſtro tam inſolenten re<g ref="char:EOLhyphen"/>periri hoſpitem, qui moerendi ſcite<g ref="char:EOLhyphen"/>tur cauſam. Nôrunt Proceres, An<g ref="char:EOLhyphen"/>glíque Patricii priſcam pectoris mo<g ref="char:EOLhyphen"/>rúmque integritatem, priſcam fidem fortitudinémque, ac genuinum adeò
+<pb facs="tcp:119627:8"/>avitae Nobilitatis exemplar, in <hi>MUL<g ref="char:EOLhyphen"/>GRAVIO</hi> ſpirâſſe, ſed expirâſſe. Juſtum ſtrenuúmque deceſſiſſe Rei com<g ref="char:EOLhyphen"/>munis Vindicem, eúmque qui pub<g ref="char:EOLhyphen"/>licè tantum vixerit, ut publicè pro<g ref="char:EOLhyphen"/>deſſet, nôrunt Plebeii; Nôrunt eum dum vixit, vixiſſe aliis, ſibîque ſoli mortuum. Nôrunt afflicti miſeri<g ref="char:EOLhyphen"/>que ſibi raptum Patronum; nôrunt ſcilicet plorantes, aeſtúque publico ad<g ref="char:EOLhyphen"/>huc pallentes Naufragi, fortem fide<g ref="char:EOLhyphen"/>lémque deſiderari Hoſpitem. Nôrunt, qui noviſſimis hiſce nequiſſimíſque temporibus, ſpectaculum Angelis &amp; Hominibus facti, tanquam purgamenta mundi ſunt &amp; omnium Peripſema uſque adhuc, periiſſe ſibi Fautorem, Culto<g ref="char:EOLhyphen"/>rem, Nutritium Patrem. Quid loquor veram animi virtutem, niveam vitae per omnia ſanctimoniam, morúmque puri<g ref="char:EOLhyphen"/>tatem emendatiſſimam!</p>
+            <p>Sed quas res ago miſer? aut quò fe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or? ſiquis forte erit, qui quem vi<g ref="char:EOLhyphen"/>rum, quem heroa lugeamus neſciat, ad<g ref="char:EOLhyphen"/>eat, licet, Orationem iſtam Funeream, luculentiſſimam ſanè eam fragrantiſſi<g ref="char:EOLhyphen"/>mámque, in quâ ita Nardo Piſtico perfuſus obdormit Comes <hi>MULGRA<g ref="char:EOLhyphen"/>VIUS,</hi>
+               <pb facs="tcp:119627:9"/>ita ſuavolentiſſimis omne genus aromatis delibutus componitur, ut in ipſis etiam Parcarum amplexibus vivus adhuc ſpiret, legentiúmque oculis con<g ref="char:EOLhyphen"/>templandus ſimul &amp; ſuſpiciendus obver<g ref="char:EOLhyphen"/>ſetur.</p>
+            <p>Hìc, inquam; nec tamen hìc tantùm vivit vivitúrque <hi>MULGRAVIUS:</hi> Vivit adhuc in piis Propinquorum ge<g ref="char:EOLhyphen"/>mitibus, &amp; lachrymis; Vivit in Cli<g ref="char:EOLhyphen"/>entum ſuorum, hoc eſt, in bonorum om<g ref="char:EOLhyphen"/>nium luctuoſis animis; Vivit in Proce<g ref="char:EOLhyphen"/>rum ſuſpiriis, in Popelli planctu: In quo<g ref="char:EOLhyphen"/>cunque denique Veri Rectíque cultus, in quocunque generoſum Honeſtum pe<g ref="char:EOLhyphen"/>ctori incoctum micat, in eo particulam aliquam Mulgraviam etiamnum ſupereſſe dixerim.</p>
+            <p>Atqui in te, ſi uſpiam alibi, totus ſimúlque; in te, inquam, ſeorſim vi<g ref="char:EOLhyphen"/>cturus eſt, ô Auree <hi>SHEFFELDI<g ref="char:EOLhyphen"/>ORUM</hi> Manipule! in te aureo reſur<g ref="char:EOLhyphen"/>git culmo quodcunque in Patre de<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ſ<g ref="char:EOLhyphen"/>ſum querimur; in te regerminat <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ul<g ref="char:EOLhyphen"/>gravii nominis decus. Ità quaeſo, luci<g ref="char:EOLhyphen"/>diſſima Sheffeldiani ſtemmatis Gemma; id eſſe ſtude quod Natales praeſtant, Paternáſque virtutes maturè occupa:
+<pb facs="tcp:119627:9"/>Jus tibi tuum ocyùs aſſere; omnibúſque hunc aliis honorem invidus praeripe, ut nemo magis <hi>SHEFFELDIUM</hi> quàm <hi>SHEFFELDIUS</hi> referat. Facito, Veneres iſtae Gratiaeque dul<g ref="char:EOLhyphen"/>ciſſimae, quibus quaſi agmine facto circumvolitantibus tum vultus tibi tum pectora renident, quibuſque quicunque ſpectator accedit; quaſi perculſus &amp; irretitus ſtupet, omnes tandem ori<g ref="char:EOLhyphen"/>ginem ſuam, ſimulátque adoleverint, prodant; nec aliud demum quicquam comperiantur, quàm Nativae dignita<g ref="char:EOLhyphen"/>tis praeludia, proſeminatae virtutis e<g ref="char:EOLhyphen"/>micantes ſcintillulae. Sic tandem fiet, ut moerorem eum luctúmque, quem nondum aut fas erit deponere, aut faci<g ref="char:EOLhyphen"/>le, non nobis longa dies, ut aliàs ſolet, ſed <hi>MULGRAVIUS</hi> redivivus mi<g ref="char:EOLhyphen"/>nuat.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:119627:10"/>
+            <pb facs="tcp:119627:10"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THough I do not call thee Courteous, yet I pray thee be ſo, be liberally ſo: Many failings, and ſuch as mine, will make work for much courteſie.</p>
+            <p>The Preſs and I have hitherto been ſtrangers, nor did I ever intend my Pen ſhould ſcrape acquaintance with it; but the deſires of ſome (which carry the force of commands) and the importunity of other Friends, calling for more Copies then I had liſt or leiſure to tranſcribe, have over<g ref="char:EOLhyphen"/>ruled thoſe thoughts, and driven me out of my receſſes and moſt deſired privacie. Nor yet could I ever look the world in the face with more confidence, and leſs fear of bluſh<g ref="char:EOLhyphen"/>ing; having in all this Diſcourſe kept cloſe <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>pany with Truth, which needeth not be aſhamed. And if I had ſo little integrity that I would, my Lord of <hi>Mulgrave</hi> had ſo much excellency, that I could not flatter. I am innocent from that great offence, which is the reproach, and almoſt ruine of theſe Sermons.</p>
+            <pb facs="tcp:119627:11"/>
+            <p>It is too much known, how the glozing tongues of ſome mercenary Orators have preached themſelves, and this kind of Preaching, out of credit; the rank flowers of whoſe unſavory Rhetorick ſprinkled upon rotten Names, have not only diſtaſted ſome ſick-brained and ſilly ones, but even turned the ſtomacks of ſound and ſober perſons. So that the Preacher of a Funeral-Sermon may find his fitteſt Text in that complaint of the Prophet;
+<note place="margin">Iſa. 53.1.</note> 
+               <hi>Quis credidit auditui noſtro?</hi> Who hath believed our report? And, an <hi>[Here lyes]</hi> may as truly be inſcribed on the Pulpit of the Preacher, as the Grave or Monument of the De<g ref="char:EOLhyphen"/>ceaſed.</p>
+            <p>As if the buſineſs of ſuch Solennities was to garniſh a Diſh for the Worms; to make a Trimming for the Grave, and Paint for the Chambers of darkneſs. But wiſe men know the vanity of ſuch Varniſh, and Colors thus laid on give no complexion to a judicious eye. And how miſerably wall this Paint melt and drop away, and leave ſome faces horribly appalled in that great Day of fire and flames, which will mingle the ſtars of the Heavens, and the duſt of the Earth together! Then ſhall the mouth
+<pb facs="tcp:119627:11"/>of all wickedneſs be ſtopped; <hi>Funeral-Sermons</hi> ſhall be ſhut,
+<note place="margin">Rev. 20.12.</note> and thoſe <hi>other Books</hi> ſhall be opened, Books that know no <hi>Errata's,</hi> and which cannot lye, and the Dead ſhall be judged out of thoſe books:
+<note place="margin">1 Cor. 4.5.</note> 
+               <hi>Then ſhall every man have praiſe of God.</hi>
+            </p>
+            <p>My ſincerity in the following Diſcourſe will (I hope) make it Judgment-proof, and abide the teſt of the ſearching day. Read it, and a bleſsing from Heaven be upon it and thee, and</p>
+            <closer>
+               <signed>Thy Servant, EDW. BOTELER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:119627:12"/>
+            <pb n="1" facs="tcp:119627:12"/>
+            <head>A SERMON Preached at the Funerals of the Right Honorable EDMUND Earl of MULGRAVE, Baron SHEFFIELD of BOTTERWIC. <hi>Sept.</hi> 21. 1658.</head>
+            <opener>
+               <salute>
+                  <list>
+                     <item>Right Honorable,</item>
+                     <item>Right Worſhipful,</item>
+                     <item>Men, Brethren, and Fathers!</item>
+                  </list>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T cannot be ſaid of this great Aſſembly, as of that <hi>Act.</hi> 19.32. that it is <hi>confuſed, and the greater part know not wherefore they are come together.</hi> We all know, and, but that God only wiſe hath ſet our price, ſhould ſadly complain that we pay too dear to know the cauſe of our meeting this day.</p>
+            <pb n="2" facs="tcp:119627:13"/>
+            <p>A day,
+<note place="margin">Job 3.5.</note> as ill as <hi>Job</hi> could wiſh; <hi>Dark<g ref="char:EOLhyphen"/>neſs and the ſhadow of death ſtains it, a cloud dwells upon it, and the blackneſs of the day terrifies it.</hi>
+            </p>
+            <p>A day as ſad as <hi>Zechary</hi> could pro<g ref="char:EOLhyphen"/>pheſie,
+<note place="margin">Zech. 12.12.</note> influencing upon ſeveral fami<g ref="char:EOLhyphen"/>lies, and cutting them out their mourn<g ref="char:EOLhyphen"/>full parts.</p>
+            <p>This Family, from whoſe heads the Lord hath now finally taken their Ma<g ref="char:EOLhyphen"/>ſter this day, have parts ſo ſad, no ex<g ref="char:EOLhyphen"/>preſſions of mine can reach them; I muſt borrow for them all.</p>
+            <p>The honorable and elect Lady ('tis S. <hi>John's</hi> word, and I hope rightly ap<g ref="char:EOLhyphen"/>plied) hath <hi>Naomi</hi> ſpeaking her con<g ref="char:EOLhyphen"/>dition:
+<note place="margin">Ruth 1.20.</note> 
+               <hi>Call me Marah, for the Lord hath dealt very bitterly with me.</hi> Or the wi<g ref="char:EOLhyphen"/>dow Church, (if ſhe can be a widow, whoſe Husband fills heaven and earth with his preſence;)
+<note place="margin">Lam. 1.12.</note> 
+               <hi>Behold and ſee if there be any ſorrow like unto my ſorrow, which is done unto me, wherewith the <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>d hath afflicted me in the day of his fierce anger.</hi>
+            </p>
+            <p>The young Lord, that florid, hope<g ref="char:EOLhyphen"/>ful, and honorable bloſſom, may ſigh out his ſorrows in that of <hi>Eliſha;</hi>
+               <note place="margin">2 King. 2.12.</note> 
+               <hi>My father! my father!</hi> And we, taking in
+<pb n="3" facs="tcp:119627:13"/>the publique loſs, may all ſubjoin, <hi>One of the chariots of Iſrael, and one of the horſmen thereof!</hi>
+            </p>
+            <p>You, who were ſomtimes his happy Attendants and Followers, <hi>David</hi> hath cut you out your parts, ſee how they will fit you:
+<note place="margin">2 Sam. 1.24.</note> 
+               <hi>Weep over him who clothed you in ſcarlet, with other delights, who put on ornaments of gold upon your apparel.</hi>
+            </p>
+            <p>All his whole Family, when you come home anon, may have your mouths, and hearts all full with that of <hi>Mary;</hi> who being asked by the Angels why ſhe wept,
+<note place="margin">Joh. 20.13.</note> cries them out this an<g ref="char:EOLhyphen"/>ſwer, <hi>They have taken away my Lord.</hi>
+            </p>
+            <p>Other families, and other perſons have their parts in this mourning too, and this our meeting makes a Conſort of lamentation, ſuch an one as may ſeem to emulate that memorable mourning of <hi>Haddadrimmon</hi> in the valley of <hi>Me<g ref="char:EOLhyphen"/>giddo, Zech.</hi> 12.11.</p>
+            <p>And now, that we had a <hi>Jeremy</hi> for this place! <hi>Jeremy</hi> in the poſſeſſion of his wiſh, his head waters, and his eyes a fountain of tears! For he could broach the eyes, and pierce the hearts of after<g ref="char:EOLhyphen"/>generations, and by the power of his pen make impreſſions upon pious po<g ref="char:EOLhyphen"/>ſterity.
+<pb n="4" facs="tcp:119627:14"/>
+               <hi>All the ſinging men and ſinging women ſpake of Joſiah in their lamenta<g ref="char:EOLhyphen"/>tions to this day, and made them an ordi<g ref="char:EOLhyphen"/>nance in Iſrael; and behold they are written in the Lamentations.</hi> 2 Chro. 35.25.</p>
+            <p>Oh for a <hi>David!</hi> one that had power to his paſſion! who did not only himſelf bewail the anointed <hi>Saul,</hi> and honorable <hi>Jonathan,</hi> but for their ſakes commanded the children of <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> to be taught the uſe of the Bow, (not to ſhoot in, as it is ordinarily and eaſily miſtaken, but) to ſigh in, the lamenting ſong called the <hi>Bow: behold it is written in the book of Jaſher.</hi> 2 Sam. 1.18.</p>
+            <p>But, why do I call in mourners? we want none: We need not hire any Ro<g ref="char:EOLhyphen"/>man <hi>Praefica's,</hi> a cuſtom obſerved alſo among the Jews.
+<note place="margin">Jer. 9.17.</note> 
+               <hi>Call for the mourning women that they may come, and ſend for cunning women that they may come:</hi> ſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h as let out their eyes for hire, and ſet their tears to ſale, having both a trade, and a trick of mourning.</p>
+            <p>We have true tears in ſhowers, and have more cauſe to ſuſpect a flood then a drought; and the fear is, leſt ſo many
+<pb n="5" facs="tcp:119627:14"/>rivolets met in one confluence, like <hi>Jordan</hi> in harveſt, ſhould overflow all banks and bounds.</p>
+            <p>But, to keep us within compaſs, it was expreſly provided by the deceaſed Lord, whoſe honorable remains now lie before us, according to the conſtant tenor of his admirable humility, de<g ref="char:EOLhyphen"/>ſirous always rather <hi>laudabilem eſſe</hi> than <hi>laudari,</hi> to be, than to be accounted good; <hi>That he might be buried with all Chriſtian warrantable decencie, without pomp or coſtly vanity, quietly and peace<g ref="char:EOLhyphen"/>ably, without giving offence to any one perſon or creature, if poſsible.</hi> Thoſe are the very words of his laſt Will and Teſtament.</p>
+            <p>By which, as it is ſaid of <hi>Abel,</hi>
+               <note place="margin">Heb. 11.4.</note> 
+               <hi>being dead he yet ſpeaketh:</hi> ſpeaketh againſt all immoderation and exceſs; ſpeaketh, as our Saviour ſometimes did to the lan enting followers of his croſs and paſſion; <hi>Daughters of Jeruſalem,</hi>
+               <note place="margin">Lu. 23.28</note> 
+               <hi>weep not for me, but weep for your ſelves and for your children.</hi> There's a black bill of <hi>Jeruſalem's</hi> ſins gone up to heaven, and given in againſt her; and there's a black cloud of miſeries hangs over <hi>Je<g ref="char:EOLhyphen"/>ruſalem's</hi> head, ready to fall upon her
+<pb n="6" facs="tcp:119627:15"/>You have ſins, and are like to have ſufferings will ſet your tears on work; and therefore laviſh not away ſuch pre<g ref="char:EOLhyphen"/>cious eye-water; be ſo thrifty in what you ſpend upon compaſſion, that you be ſure to keep for contrition. Thus weep, or weep not at all for me, but weep all for your ſelves, and for your children.</p>
+            <p>But, if moderation be intended, then what means this great and unuſual ap<g ref="char:EOLhyphen"/>pearance? this ſad and ſolemn Proceſſi<g ref="char:EOLhyphen"/>on? theſe multiplied Blacks? that ſtately Herſe? thoſe Armorial Enſigns and tricks of Honor? thoſe <hi>Atrati,</hi> the Mourners walking about the ſtreets?</p>
+            <q>— Et non plebeios luctus teſtata Cu<g ref="char:EOLhyphen"/>preſſus?</q>
+            <p>Such a queſtion was once put by the Diſciples, and that with indignation too, when they ſaw the Alabaſter-box of very precious ointment poured on the head of Jeſus;
+<note place="margin">Mat. 26.7, 8.</note> 
+               <hi>To what purpoſe is this waſte?</hi>
+            </p>
+            <p>S. <hi>John</hi> ſeems to take it off in ſome meaſure at leaſt from the other Diſci<g ref="char:EOLhyphen"/>ples, and lay it upon <hi>Judas,</hi> making him the greateſt, if not the onely mur<g ref="char:EOLhyphen"/>murer? He had the filthieſt heart, and
+<pb n="7" facs="tcp:119627:15"/>fouleſt mouth; and ſo fitteſt to ſpeak that baſe objection, which he hatched in his bag, not his conſcience:
+<note place="margin">Joh. 12.5</note> 
+               <hi>Why was not this ointment ſold for three hun<g ref="char:EOLhyphen"/>dred pence, and given to the poor?</hi> It is not unlike there may be ſome of <hi>Judas</hi> his brood here this day, (Great ſins ſeldom die iſſueleſs;) who being of the ſame mind, may murmure after the ſame manner, and therefore the ſame anſwer will fit them:
+<note place="margin">Joh. 12.8</note> 
+               <hi>This is for the day of my burying; for the poor you have always with you, but me you have not al<g ref="char:EOLhyphen"/>ways.</hi>
+            </p>
+            <p>They whom Chriſt cannot ſatisfie, deſerve no anſwer; nor will I trouble my ſelf further with them, then to tell them, It is more then ſuſpicious, that they who have over-ſlovenly thoughts of Burial, have too ſlender hopes of the Reſurrection. He lays his clothes by handſomly, doth not throw them away careleſly, that intends to put them on again in the morning. Indeed, were our minds after the Heathen Motto, <hi>Non est ſpes ulla ſepultis,</hi> There's no hopes of them that are once buried; any burial were good enough; any hole will ſerve no hopes: Let loſt forlorne carkaſſes
+<pb n="8" facs="tcp:119627:16"/>be kicked into corruption; the ditch is fitteſt for that which will never be better then dirt.</p>
+            <p>But a body, which hath been <hi>Animae domicilium,</hi> it is <hi>Origen's</hi> word, the dwelling-houſe of a divine ſoul; and whilſt in the ſtate of conjunction,
+<note place="margin">Eph. 2.22.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 'tis S. <hi>Pauls</hi> word, an habitation of God through the Spirit, a Temple of the Holy Ghoſt, one of the dwellings of God, and manſions of the moſt High:</p>
+            <p>A body which ſhall riſe in honor,
+<note place="margin">1 Cor. 15.43.</note> put on glory, and wear immortality:</p>
+            <p>A body which ſhall be faſhioned like unto Chriſts glorious body,
+<note place="margin">Phil. 3.21</note> let it have ſome of the faſhion of his burial too; the honorable attendance, the ſpike<g ref="char:EOLhyphen"/>nard and ſpices,
+<note place="margin">Mar. 15.43.46.</note> the ointment and fine For queſtionleſs, had coſtly linnen: ſolemnities been a ſin, he who knew no ſin would not have made his grave with the rich in his death;
+<note place="margin">Iſa. 53.9.</note> nor ſhould the Sun (being under his command) have put both himſelf and the heavens into black,
+<note place="margin">Mat. 27.45.</note> to witneſs their mourning to the world.</p>
+            <p>Let them who live and die like beaſts, be buried like beaſts; the burial of an
+<pb n="9" facs="tcp:119627:16"/>aſs, <hi>Jehojakim's</hi> curſe,
+<note place="margin">Jer. 22.15.</note> ſuits beſt with them. But let not man, a good man, a good man in honor, though he abideth not, be thus like the beaſts that periſh.
+<note place="margin">Pſ. 49.12.</note> Let us give him the honor due unto his name! Due indeed: For if ever Funerals were called <hi>Juſta,</hi> as being a debt to the memory of the deceaſed, theſe are they; in which we do not perform, but pay the ſervice of this day. Which whilſt we are about, let me bleſs you,
+<note place="margin">2 Sam. 2.5.</note> as <hi>David</hi> did the men of <hi>Jabeſh-Gilead; Bleſſed be you of the Lord, that you have ſhewed this kind<g ref="char:EOLhyphen"/>neſs unto this Lord, and are thus come to bury him.</hi>
+            </p>
+            <p>But before his burial, there's a box of ointment, which a skilful hand would open, but I muſt break, that the place may be filled with the odor of it. And that it may be the ſweeter, let us mingle it with ſome Scripture-ingredients. We ſhall be better furniſhed to ſpeak of the dead, when we have a while conſulted the Book of life, in that portion of it which is written—</p>
+            <div type="part">
+               <pb n="10" facs="tcp:119627:17"/>
+               <epigraph>
+                  <q>
+                     <bibl>RUTH 4.11.</bibl>
+                     <p>Do thou worthily in Ephratah, and be famous in Bethlehem.</p>
+                  </q>
+               </epigraph>
+               <p>A Scant and a ſhort Text, to accom<g ref="char:EOLhyphen"/>pany ſo great a Perſon to ſo long an home. But <hi>non est huic alter ſimilis,</hi> (as <hi>David</hi> ſaid of the ſword) <hi>there is none like that,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sam. 21.9.</note> 
+                  <hi>give it me:</hi> A fitter could not be found; I could not miſs it, he was ſo much the Comment on it; look at it, and you ſee him. The perſons, the place, the actions, the fame all agreeing; and what was there voted, is here verified; it is now the praiſe of the dead, what was then a prayer for the living: <hi>Do thou worthily in Ephratah, and be famous in Bethlehem.</hi>
+               </p>
+               <p>The words are the gratulatory votes, and hearty wellwiſhes, ſignified by the general acclamations of the <hi>Ephrathites,</hi> and people of <hi>Bethlehem-Judah,</hi> to the great and noble <hi>Boaz;</hi> a Prince of the Aſſembly famous in the Congregation,
+<pb n="11" facs="tcp:119627:17"/>a man of renown, one that ſate chief in the gate of his place, and was the honor of his people: He was of good deſcent and extraction, great Grandfather to <hi>David</hi> in the right royal line of <hi>Judah,</hi> whoſe fair pedigree is to be ſeen from <hi>Adam</hi> the ſon of God, to <hi>Jeſus</hi> the ſon of man, <hi>Luk.</hi> 3. And which heighten'd his height, and made his greatneſs yet greater, he was good too; there were apples of gold ſet in thoſe pictures of ſilver; Wiſdom, Juſtice, Mercy, Love,
+<note place="margin">Pro. 25.11.</note> Good works, a right Retinue for Nobi<g ref="char:EOLhyphen"/>lity: This was the Temple which ſan<g ref="char:EOLhyphen"/>ctified the gold, and the Altar which makes pleaſant the offering.</p>
+               <p>This perſon thus great, thus good, is beſt for our purpoſe: For it was not every one that would have made a paral<g ref="char:EOLhyphen"/>lel for my Lord of <hi>Mulgrave,</hi> but he muſt be great.</p>
+               <p>Not every Great one neither: For many like muſhroms and children of the earth, are ſprung up and grown to their greatneſs ſince yeſterday, and made but a ſtep out of the dirt into honor; like thoſe Giants, which, the Poets tell us, were <hi>ſimul ſati &amp; editi,</hi> ſown and grown in the ſame inſtant: But he muſt be one,
+<pb n="12" facs="tcp:119627:18"/>the ſpring of whoſe honor is to be found riſing in remoter ages, and his Anceſtors the acquaintance of Hiſtory, ennobled in blood, great by derivation from great<g ref="char:EOLhyphen"/>neſs, — <hi>Satus ſanguine Divûm.</hi>
+               </p>
+               <p>Not every Great and Noble one nei<g ref="char:EOLhyphen"/>ther. If he have no evidences to ſhew for it but the Houſes and Inheritance, the Lands and Lordſhips, the Eſcucheons and Seal of his Family; if he be deſcend<g ref="char:EOLhyphen"/>ed by as many degenerations from the worth and vertue, as generations from the loins and blood of atchieving pro<g ref="char:EOLhyphen"/>genitors: But he muſt be one who hath brought in his ſhare of Honor, hath il<g ref="char:EOLhyphen"/>luſtrated old Dignities by new additions, and by doing worthily acquired fame. Such the perſon preſented in the Text, and repreſented in the Occaſion: <hi>Do thou, &amp;c.</hi>
+               </p>
+               <p>In the Text, you have Nobility ad<g ref="char:EOLhyphen"/>vanced betwixt two Supporters, <hi>Facts,</hi> and <hi>Fame.</hi> Facts give fame a bottom to ſtand on, and Fame gives Facts a top to ſtand up: Facts get Fame, and Fame gilds Facts. To do good, is the way to be great; and to be great, is the reward of doing good. Worthy actions com<g ref="char:EOLhyphen"/>mand honorable commemorations; <hi>Do</hi>
+               </p>
+               <pb n="13" facs="tcp:119627:18"/>
+               <p>I find ſeveral readings; and I'll name that firſt, which I like worſt:
+<note place="margin">Pro. 3.10</note> 
+                  <hi>Compara opes Ephrathae,</hi> Get thee riches at <hi>Ephra<g ref="char:EOLhyphen"/>tah;</hi> have ſervants and cattel, and flocks and herds; let thy garners be filled with plenty,
+<note place="margin">Eccl. 2.8.</note> and thy preſſes burſt out with new wine; Bring <hi>Ophir</hi> to <hi>Ephratah,</hi> gather ſilver and gold, and the peculiar treaſure of Kings and of the provinces. Some will like this well enough, becauſe it makes wealth the gage of worth; and ſo it is by the rate of the world, where look what a mans eſtate is, that com<g ref="char:EOLhyphen"/>monly is ſaid to be his worth. But to make this Worth, were to make the ca<g ref="char:EOLhyphen"/>mel a paſſage through the needles eye;
+<note place="margin">Quidam ſcribunt <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> let <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſignifie the great beaſt it ſelf, and not the Seaman's rope only, as ſome contend upon that expreſſion <hi>Mat.</hi> 19.24. To make wealth the ſtandard of worth, this were to offend againſt the generation of Gods children, and to caſt out thoſe as vile and worthleſs among men, <hi>of whom the world is not worthy:</hi>
+                  <note place="margin">Heb. 11.38. Lam. 4.2.</note> This were to eſteem the <hi>precious ſons of Zion comparable to fine gold, as earthen pitchers the work of the hands of the potter.</hi> Nor can I think the votes of the <hi>Ephra<g ref="char:EOLhyphen"/>thites</hi> ran ſo low as wealth, the laſt and
+<pb n="14" facs="tcp:119627:19"/>leaſt in the inventory of good things; a bleſſing of the left hand, and not al<g ref="char:EOLhyphen"/>ways a bleſſing neither, <hi>Riches being ſometimes kept for the owners thereof to their hurt.</hi>
+                  <note place="margin">Eccl. 5.13.</note> It is but the fatneſs of the earth at beſt, which many have their full of, who ſhall never taſte of heaven.</p>
+               <p>And therefore I like the vulgar Latine better which reads it, <hi>Exemplum virtu<g ref="char:EOLhyphen"/>tis;</hi> ſaving that their <hi>ſit</hi> in ſtead of <hi>ſis</hi> ſeems to incline that part of the words to <hi>Ruth,</hi> which other Copies, and ſo our Tranſlation applies to <hi>Boaz;</hi> and ſpeak<g ref="char:EOLhyphen"/>ing to him, it ſpeaks to purpoſe, voting him to that which is the ornament of great perſons, an Exemplarity.</p>
+               <p>The higheſt lines are the writers copy; and therefore thou that art high, make an advantage of thy place, preſcribe thoſe that be under, give a copy to others to write after. But I ſhall ſpeak to this, when I come to apply Text and Occa<g ref="char:EOLhyphen"/>ſion; and ſhall now follow our Engliſh reading word for word, <hi>Do thou worthily in, &amp;c.</hi>
+               </p>
+               <p>In which words pleaſe to obſerve with me that there is,</p>
+               <p n="1">1. <hi>Agendum,</hi> Something to be done: <hi>Do.</hi>
+               </p>
+               <pb n="15" facs="tcp:119627:19"/>
+               <p n="2">2. <hi>Modum agendi,</hi> the rule or meaſure of doing; <hi>worthily: Do worthily.</hi>
+               </p>
+               <p n="3">3. <hi>Motivum actûs,</hi> the motive of ſuch deeds; taken,</p>
+               <p n="1">1. From the perſon on whom ſuch doing is incumbent; <hi>Thou: Do thou worthily.</hi>
+               </p>
+               <p n="2">2. From the place where ſuch a perſon is reſident, <hi>Ephratah: Do thou worthily in Ephratah.</hi>
+               </p>
+               <p n="3">3. From the name which is attend<g ref="char:EOLhyphen"/>ant on ſuch a perſon, in ſuch place, doing ſo worthily; it is <hi>famous: And be fa<g ref="char:EOLhyphen"/>mous in Bethlehem.</hi>
+               </p>
+            </div>
+            <div n="1" type="part">
+               <p>Firſt for the <hi>Agendum, Do.</hi> Men muſt be active for heaven in their generations: Souls are high metall'd, and it is a ſhame to ruſt them in their ſcabards: They are Inanimates, or ill thriving Vegetables, that gather moſs. A torpid life misbe<g ref="char:EOLhyphen"/>comes any man, moſt a Chriſtian. We came not on the Stage, as <hi>Cato</hi> on the Theatre; who is ſaid to have entred, only <hi>ut exiret,</hi> that he might go out a<g ref="char:EOLhyphen"/>gain: But we have our parts to act, ſomething is to be done by us whilſt we live in the world.</p>
+               <p>As vertue is the luſtre of action, ſo action is the life of vertue: <hi>Faith without
+<pb n="16" facs="tcp:119627:20"/>works is dead.</hi>
+                  <note place="margin">Lev. 18.5</note> It is not only the voice of the Law, <hi>Do this and live;</hi> but Goſpel-impulſes upon the hearts of candidate Chriſtians and Converts work them to this importunate ſollicitation, <hi>What muſt we do to be ſaved?</hi>
+                  <note place="margin">Act. 16.30.</note> We have enough to do, work cut out for every day, not an hour but we may find employment: <hi>Mortifie your earthly members.</hi>
+                  <note place="margin">Col. 3.5. Lu, 13.24 1 Cor. 9.24. 2 Pet. 1.10. Heb. 4.11. Phil. 2.12.</note> 
+                  <hi>Strive to enter in at the ſtraight gate. So run, that you may obtain. Give all diligence to make your calling and election ſure. Let us labor to enter into that reſt. Work out your own ſalvation with fear and with trembling.</hi>
+               </p>
+               <p>Who can look, who can think upon all, upon any of theſe, and not ſee enough to do, ſhould he do nothing elſe? And yet how ſlack are men at doing, though it be to do themſelves good? Do not moſt men like the people of <hi>Laiſh</hi> dwell careleſs, and after the manner of the <hi>Zidonians</hi> quiet and ſecure?
+<note place="margin">Jud. 18.7</note> Is it not the language of moſt hearts, when they are motioned to remember their im<g ref="char:EOLhyphen"/>mortal ſouls, and to be doing ſomthing for eternity; Away tormentors before the time! Mortifying motions and four precepts of repentance, you are up too early, you are ſtirring too ſoon; go, and
+<pb n="17" facs="tcp:119627:20"/>come again at threeſcore,
+<note place="margin">Wiſd. 20.6, 7, 8.</note> or when a ſick bed may make you ſeaſonable! <hi>Come, now let us enjoy the good things that are preſent; bet us fill our ſelves with coſtly wine and ointments, and let no flower of the ſpring paſs by us; let us crown our ſelves with roſe-buds before they be withered; let none of us go without his part of our vo<g ref="char:EOLhyphen"/>luptuouſneſs, let us leave tokens of our joy<g ref="char:EOLhyphen"/>fulneſs in every place. Heart follow thine own ways, ſoul take thine eaſe, let us lie upon beds of ivory and ſtretch our ſelves upon our couches: I charge you O ye daughters of Hieruſalem, that you ſtir me not up nor awake me (from my beloved idleneſs) till I pleaſe.</hi>
+                  <q>— juvat molli torpere veterno.</q>
+               </p>
+               <p>Men and Brethren, Never was there ſuch an idle generation, for all our new<g ref="char:EOLhyphen"/>found word of <hi>Generation-work:</hi> The chymiſtrie of theſe days hath ſo rarified Religion, that it is become a meer air, a wind, a next to nothing. <hi>Wo unto us,</hi>
+                  <note place="margin">Jer. 6.4.</note> 
+                  <hi>for the day goeth away, for the ſhadows of the evening are ſtretched out!</hi> But how ſhort is the ſubſtance? how many have their tongues tipp'd with Purity, but how few have made it the living of their
+<pb n="18" facs="tcp:119627:21"/>hearts? Is not a mouth-full of holineſs enough to juſtifie both hands full of violence, and a heart full of hypocriſie and rottenneſs? So that like the Church of <hi>Sardis,</hi>
+                  <note place="margin">Rev. 3.1.</note> we have <hi>a name to live, and are dead;</hi> we are nominally the Church of God, but really little better then the ſynagogue of Satan:
+<note place="margin">Mat. 23.5</note> like the Phariſees we enlarge our Philacteries or Conſer<g ref="char:EOLhyphen"/>vatories, ſcrolls on which the Law was written, as if we graſped at all and every punctilio of it, when indeed too like them we <hi>ſay,</hi>
+                  <note place="margin">
+                     <hi>v</hi> 2.</note> 
+                  <hi>and do not.</hi> It is time then to call upon men to be more practical, and leſs prating; to ſet their hands to their words, and witneſs their profeſſion by their a<g ref="char:EOLhyphen"/>ctions; and that upon a fourfold ac<g ref="char:EOLhyphen"/>count.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Our time is for doing; our life is our day, our working-day, a day which lays a neceſſity of work upon us. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>I muſt work the works of him that ſent me while it is day;</hi>
+                  <note place="margin">Joh. 9.4.</note> 
+                  <hi>the night cometh when no man can work.</hi> Life is a portion of that general duration from the riſe of the world to the ruines of it, taken out and allowed to Individuals to do their work in.
+<note place="margin">Pſal. 103.23.</note> 
+                  <hi>Man goeth forth to his work and to his labor until the evening. Sudore temporis
+<pb n="19" facs="tcp:119627:21"/>paranda ſunt praemia aeternitatis;</hi> Let the ſweat of time bring in the ſweets of eter<g ref="char:EOLhyphen"/>nity: <hi>As we have opportunity, let us do good.</hi> Time is for doing.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>2</label> 
+                  <hi>It is time we were doing.</hi> It were well if that taunt of <hi>Seneca</hi> to the Jews in reference to their Sabbaths, that they ſpent the ſeventh part of their lives idly, might not charge us further, to the fifth, the fourth, nay the half, the greater half of our lives, which we have ſquan<g ref="char:EOLhyphen"/>dered away by doing nothing, or nothing to purpoſe, or worſe then nothing. To paſs by the toys and trifles of the lap and cradle, the vanities and excurſions of our youthful days, how unprofitable have our riper years been? Let the beſt of us take a ſerious view of our years and graces, and how much may we be aſha<g ref="char:EOLhyphen"/>med of the diſproportion? May we not ſee the Almond-tree flouriſh,
+<note place="margin">Eccl. 12.5.</note> where the Tree of life never yet budded? Old men in the world as far to ſeek for the New<g ref="char:EOLhyphen"/>birth,
+<note place="margin">Joh. 3.4.</note> as <hi>Nicodemus</hi> who knew no other way then entring a ſecond time into his mothers womb to be born? It is ordi<g ref="char:EOLhyphen"/>nary for men to reckon many years, whilſt their good works cannot begin a number: It is the eleventh hour with
+<pb n="20" facs="tcp:119627:22"/>ſome, it may be <hi>hora noviſsima,</hi> the laſt hour. Into the vineyard then, and be do<g ref="char:EOLhyphen"/>ing;
+<note place="margin">Mat. 20.8.</note> that when even ſhall come, the Lord may ſay unto his Steward, Call the laborers and give them their hire. It's time we were doing.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>3</label> 
+                  <hi>Time will quickly be done.</hi> The Sun and Moon, thoſe great clocks of the Creation, were not wound up for ever; No,
+<note place="margin">Pſal. 104.19.</note> 
+                  <hi>He appointeth the Moon for certain ſeaſons, and the Sun knoweth his going down.</hi> Time is that ſtrange ſomething, nothing, whoſe tranſient nature never yet had its own parts together: It will not ſtay till I tell you what it is: If I ſhould go about to deſcribe it and ſay, It is — I ſhould conſute my ſelf before I had done, and you might tell me, it is not. But allow us to ſpeak properly, when we ſay, that is time which is to come; yet alas! how coming is it? <hi>Dum labitur, lapſum eſt;</hi> it is gone, whilſt it is going. Particular time is ſhort; <hi>Menſurabiles poſuiſti dies meos, Thou haſt made my days meaſurable.</hi> And his meaſure every man carries about with him; <hi>Behold thou haſt made my days as an hand-breadth.</hi>
+                  <note place="margin">Pſ. 39.5. Rev. 10.6.</note> And general time cannot be long: <hi>The Angel lift up his hand to heaven, and ſware by him that
+<pb n="21" facs="tcp:119627:22"/>liveth for ever and ever, that there ſhould be time no longer.</hi> Which is a truth, as well to the diſſolution of the world, as the deſolation of <hi>Babylon,</hi> of which ſome expound it. The ends of the world are come upon us; the Judge is at the door:
+<note place="margin">Iſa. 21.12.</note> 
+                  <hi>The watchman ſaith, the morning cometh, and alſo the night; if ye will enquire, en<g ref="char:EOLhyphen"/>quire ye; return, come:</hi> Come quickly, drive not in the momental matters of another world, hazard not your unal<g ref="char:EOLhyphen"/>terable Eternity upon peradventures; What you have to do, defer not; Time will quickly be done.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>4</label> 
+                  <hi>Not doing in time, will be our undoing for ever.</hi> The ſervant who hid his talent is charged, not for miſdoing, but for not doing; for not acting his ſhare in the Commiſſion, <hi>Negotiamini dum venio,</hi>
+                  <note place="margin">Lu. 19.13</note> 
+                  <hi>Be doing till I come.</hi> It will be long enough ere we talk our ſelves into heaven:
+<note place="margin">Mat. 7.21</note> 
+                  <hi>Not every one that ſaith unto me, Lord, Lord, ſhall enter into the kingdom of heaven; but he that doth the will of my Father which is in heaven.</hi> No queſtion but if talking would do it, it would be a general plea: Many have been full of tongue for him, and will ſay, <hi>Lord, Lord, have we not pro<g ref="char:EOLhyphen"/>pheſied in thy name?</hi> Yes, it may be ſo:
+<pb n="22" facs="tcp:119627:23"/>But where are the hungry which you have fed,
+<note place="margin">Mat. 25.42, 43.</note> the thirſty you have given drink to, the ſtrangers you took in, the naked you cloathed, the ſick and priſo<g ref="char:EOLhyphen"/>ners you viſited? You have been all tongue and winde, and nothing you have done;
+<note place="margin">Hoſ. 8.7.</note> you have <hi>ſown the wind,</hi> and now you ſhall <hi>reap the whirlwind. Behold the whirlwind of the Lord goeth forth with fury,</hi>
+                  <note place="margin">Jer. 30.23.</note> 
+                  <hi>a continuing whirlwind, it ſhall fall with pain upon the head of the wicked, in the latter days ye ſhall conſider it.</hi> Oh that men were wiſe, that they would conſider this before the latter day! The laſt day will be a late day: When the cry is made, <hi>Behold the Bridegroom cometh!</hi>
+                  <note place="margin">Mat. 25.6.</note> providing of oil and trimming of lamps will be out of date. I will therefore cloſe this with that ſuitable exhortation of the Preacher, preached upon in this place the laſt day that ever the deceaſed honorable Lord was a h<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rer:
+<note place="margin">Eccl. 9.10.</note> 
+                  <hi>Whatſoever thine hand find<g ref="char:EOLhyphen"/>eth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wiſ<g ref="char:EOLhyphen"/>dom in the grave whither thou goeſt.</hi>
+               </p>
+               <p>That for the <hi>Agendum; Do.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <p n="2">2. Here is <hi>Modus agendi,</hi> the rule and meaſure of doing; <hi>worthily.</hi> Do; but no more haſte then good ſpeed; as good
+<pb n="23" facs="tcp:119627:23"/>do nothing, as nothing to purpoſe. Do, but be adviſed how; <hi>Do worthily.</hi>
+               </p>
+               <p>Worthily, how is that? Nobly: ſo ſome read it. Gild thy actions with ho<g ref="char:EOLhyphen"/>nor; let thy large heart appear in thy liberal hand.
+<note place="margin">1 Sam. 1.6.</note> 
+                  <hi>Elkanah</hi> gave <hi>Hannah par<g ref="char:EOLhyphen"/>tem honorabilem,</hi> a worthy portion: Do honorably, and do worthily.</p>
+               <p>
+                  <hi>Worthily;</hi> that is, <hi>ingenuouſly,</hi>
+                  <note place="margin">1 King. 1.52.</note> if we follow others. <hi>Si fuerit vir bonus,</hi> ſays <hi>Solomon</hi> of <hi>Adonijah, If he ſhew himſelf a worthy man,</hi> if he deal fairly and ingenu<g ref="char:EOLhyphen"/>ouſly. And ſuch a ſignification we meet with <hi>Mat.</hi> 10.11. <hi>Into whatſoever city or town you ſhall enter, enquire who in it is worthy;</hi> who keeps an open heart to en<g ref="char:EOLhyphen"/>tertain the Goſpel, and is ſo ingenuous to give a free welcom to thoſe precious gueſts that bring it. Do ingenuouſly, and do worthily.</p>
+               <p>We ſhall contract all the ſeveral expo<g ref="char:EOLhyphen"/>ſitions of <hi>Doing worthily,</hi> into four parti<g ref="char:EOLhyphen"/>culars. To do worthily, is,</p>
+               <p n="1">1. To do <hi>decently;</hi> to do ſuitably and beſeemingly: To act in a proportion to our natural ſelves, to do as men; to our civil ſelves, to do as ſuch men; to our religious ſelves, to do as Chriſtians. Thus our Saviour exhorts to <hi>bring forth
+<pb n="24" facs="tcp:119627:24"/>fruits</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<note place="margin">Lu. 3.8.</note> 
+                  <hi>worthy of repent<g ref="char:EOLhyphen"/>ance,</hi> that is, meet for repentance, ſuiting with that contrition and conſternation of poor broken Penitents, thoſe <hi>Doves of the vallies mourning for their iniquities.</hi>
+                  <note place="margin">Ezek. 7.16. Act. 26.20. Col. 1.10 Eph. 4.1.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, is S. <hi>Paul's</hi> expreſ<g ref="char:EOLhyphen"/>ſion, <hi>works worthy of repentance.</hi> And ſo, <hi>To walk worthy of the Lord, worthy of the vocation,</hi> denotes every where <hi>Decentiam quandam &amp; convenientiam,</hi> a certain ſuit<g ref="char:EOLhyphen"/>ableneſs and becomingneſs,
+<note place="margin">Davenant in Col.</note> as the Learn<g ref="char:EOLhyphen"/>ed obſerve. And one place for all the reſt ſo renders it in plain Engliſh, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<note place="margin">Ro. 16.2.</note> 
+                  <hi>as becometh Saints.</hi>
+               </p>
+               <p>Men and brethren, did we always con<g ref="char:EOLhyphen"/>ſult this ſuitableneſs, it would give check to folly, and keep us from unworthy acti<g ref="char:EOLhyphen"/>ons.
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Act. 17.28. Joh. 14.2. Col. 1.5. 2 Pet. 1.4. Col. 3.4. 1 Pet. 1.4. Ro. 8.18.</note> Remember your ſelves you that are born of God, and do nothing unworthy ſo high a birth: Remember the calling wherewith you are called, the manſions prepared, and the hope laid up in heaven for you; the <hi>great and precious promiſes,</hi> the rich reverſions of the life to come; the <hi>inheritance incorruptible, and the glory to be revealed:</hi> And do in ſome pro<g ref="char:EOLhyphen"/>portion to theſe, to all theſe, do as be<g ref="char:EOLhyphen"/>comes perſons of ſuch pregnant hopes and expectations; Do decently, and do worthily.</p>
+               <pb n="25" facs="tcp:119627:24"/>
+               <p n="2">2. To do <hi>deſervingly.</hi> Worthy and deſerving are terms of equivalencie: <hi>The laborer is worthy of,</hi> or deſerves, <hi>his hire.</hi> So the Elders of the Jews being ſent to invite the help of Jeſus for the ſick ſer<g ref="char:EOLhyphen"/>vant of the devout Centurion, that Rarity of his profeſſion, (for he was a Church-building Soldier) they ſpeak his deſerts, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>He is worthy</hi> for whom Chriſt ſhould do this,
+<note place="margin">Luk. 7.4, 5.</note> 
+                  <hi>for he loveth our nation and hath built us a ſynagogue.</hi> There is no worth, but what deſerts bring in: That Honor is too cheap to be good, that was purchaſed without atchieving, that coſt nothing: And that Fame de<g ref="char:EOLhyphen"/>ſerves to ſtarve, that cannot live but at the charge of anothers actions. Win then the honor you intend to wear: deſerve of the place, the perſons, where and a<g ref="char:EOLhyphen"/>mong whom you live. Bid for a Name in <hi>doings,</hi> and pay for it in <hi>deſerts.</hi> Pleaſe not your ſelves with the petty thoughts and pitiful dreams of poſthume honor, not only born, but begotten after death; That the Poet and Artificer ſhall con<g ref="char:EOLhyphen"/>trive a fair (though falſe) Remembrance of you; That you ſhall have a Marble to mourn over you, and a Monument to tell ſome golden Lye for you when you
+<pb n="26" facs="tcp:119627:25"/>are gone: But work your ſelves into the hearts, and out of the mouths of men; make every breaſt your monument, and every tongue your epitaph: Do deſer<g ref="char:EOLhyphen"/>vingly, and do worthily.</p>
+               <p n="3">3. To do <hi>exemplarily.</hi> And in this I follow the Vulgar Latine, which ren<g ref="char:EOLhyphen"/>ders this <hi>[worthily]</hi> an example of vertue, as before: It is worthy doing, to do exemplarily. Men can do unworthily, without a pattern; but they muſt be good indeed, that make others good by the convincing power of their examples. Few leaders in our expedition for the other world; we are ſo far from being leaders, that it were well if we could follow examples. In our walkings abroad do we not ſtumble upon the husbandly provident Ant? And yet who conſiders her ways to be ſo wiſe, as in ſummer to forecaſt for winter, and in time to pro<g ref="char:EOLhyphen"/>vide for eternity? In our ſittings within and receſſes, does not the Swallow ſing a confutation in our ears, whilſt ſhe is an example of obſerving an appointed ſea<g ref="char:EOLhyphen"/>ſon,
+<note place="margin">Jer. 8.7.</note> and <hi>we will not know the day of our viſitation?</hi>
+               </p>
+               <p>Men and brethren, As it is your ſhame not to follow, ſo it will be your honor to
+<pb n="27" facs="tcp:119627:25"/>make examples;
+<note place="margin">Tit. 2.7.</note> in all things ſhewing your ſelves patterns of good works, cut<g ref="char:EOLhyphen"/>ing out work for the imitation of others. The moſt holy and humble <hi>Jeſus,</hi> among the many exemplarities of his heavenly life upon earth, commends to his ambiti<g ref="char:EOLhyphen"/>ous Diſciples that condeſcending act of his in waſhing their feet,
+<note place="margin">Jo 13.15.</note> under this ex<g ref="char:EOLhyphen"/>preſſion, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>I have given you an example, that ye ſhould do as I have done to you.</hi> And S. <hi>Paul</hi> exhorts, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<note place="margin">1 Tim. 4.12.</note> 
+                  <hi>Be thou an example of the believers in word, in converſation, in charity, in ſpirit, in faith, in purity.</hi> A Chriſtian muſt be both <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> a viſible, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> a legible example: The word is taken from thoſe letters and marks which arti<g ref="char:EOLhyphen"/>ficers in iron or braſs uſe to make upon their inſtruments by ſtamping. Let good<g ref="char:EOLhyphen"/>neſs be inſtamped upon you, wear a Divine impreſs;
+<note place="margin">Mat. 22.20.</note> bear the image of the Heavenly, and the inſcription of a great<g ref="char:EOLhyphen"/>er then <hi>Caeſar;</hi> let there be upon you, as upon the bridles of the horſes in the Prophet, <hi>Holineſs unto the Lord.</hi>
+                  <note place="margin">Zech. 14.20. Phil. 2.15</note> There was never ſuch a crooked and perverſe Nation; therefore nev r more need you ſhould ſhine among them as lights in the world: Now, if ever, <hi>let your light ſo
+<pb n="28" facs="tcp:119627:26"/>ſhine before men,</hi>
+                  <note place="margin">Matth. 5.16.</note> 
+                  <hi>that they may ſee your good works, and glorifie your Father which is in Heaven. Do exemplarily, and do worthily.</hi>
+               </p>
+               <p n="4">4. To do <hi>excellently:</hi> Actions of a taller pitch then ordinary, to emerge the ſleepy Age, and ſtrip the dull drouſie World. <hi>Worth</hi> hates levelling, and diſ<g ref="char:EOLhyphen"/>dains the pitiful thoughts of a parity. The <hi>Saints</hi> thoſe Worthies of God, are called <hi>The moſt Excellent;</hi>
+                  <note place="margin">Pſa. 16.3.</note> and <hi>Tertullus</hi> the Orator coming to claw <hi>Felix,</hi> and flatter ſome favor out of him for the <hi>Jews</hi> againſt St. <hi>Paul,</hi> calls his acts for that Nation <hi>very worthy deeds:</hi>
+                  <note place="margin">Act. 24.2.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Right and ſtraight works being done by thee, ſuch as ſtand true by the rule, ſuch as others ſwerve from, or come ſhort of.</p>
+               <p>
+                  <hi>Davids</hi> Worthies had their names and honors from their great atchievements and actings above others.
+<note place="margin">2 Sam. 23.</note> There were the thirty, the three, and the firſt three. <hi>Benaiah</hi> the ſon of <hi>Jehoiada</hi> had the name among three mighty men,
+<note place="margin">Verſ. 23.</note> he was more honorable then the thirty, but he attained not to the firſt three; theſe were all ſuch as out-did the generality, and acted above the common rate of men.</p>
+               <pb n="29" facs="tcp:119627:26"/>
+               <p>Such worthies would our <hi>Saviour</hi> have all his Diſciples and followers to be: <hi>What do you more then others? do not even the Publicans the ſame?</hi> what worth is there in <hi>common actions?</hi> were Gold but like other Clay, the Cabinet would be no place for it; were Jewels as obvi<g ref="char:EOLhyphen"/>ous as the ſtones in the ſtreets, who would call them, would count them pre<g ref="char:EOLhyphen"/>cious? He that keeps pace with the multitude, ſhall never reach Heaven: There is none climbs that hill, but he leaves many behinde him.</p>
+               <q>
+                  <l>—Jam monte potitus</l>
+                  <l>Ridet anhelantem dura ad faſtigia turbam.</l>
+               </q>
+               <p>Men and Brethren, would you have worth in you? <hi>Seek that you may excel,</hi>
+                  <note place="margin">1 Cor. 14.12.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that you may abound, and have overplus and run over; that you may overrun others, as the <hi>Diſciple</hi> did, that ſtrip'd <hi>Peter</hi> and came firſt at <hi>Jeſus.</hi>
+                  <note place="margin">John 20.4. 1 Cor. 9.24.</note> 
+                  <hi>So run that you may obtain.</hi> Get a name among thirty, if you cannot attain the honor of three, of the firſt three. How<g ref="char:EOLhyphen"/>ever, keep within diſtance; get beyond the pitch of a <hi>Publican,</hi> do more then others, then many others, then moſt others. Do <hi>excellently,</hi> and do <hi>worthily.</hi>
+               </p>
+               <pb n="30" facs="tcp:119627:27"/>
+               <p>That for the <hi>Modus agendi,</hi> the mea<g ref="char:EOLhyphen"/>ſure and rule of doing: <hi>Do worthily.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <p>Come we now to the third general part,</p>
+               <p n="3">3. <hi>Motivum actûs:</hi> The <hi>Motive</hi> and <hi>Incentive</hi> to this worthy doing; taken</p>
+               <p>From the perſon, <hi>Thou;</hi> the place, <hi>Ephratah;</hi> the name, <hi>Famous:</hi> It is thou, and thou art in <hi>Ephratah,</hi> and thou ſhalt <hi>be famous in Beth-lehem.</hi>
+               </p>
+               <div n="1" type="section">
+                  <p n="1">1. <hi>Thou:</hi> Thou that art great, and <hi>Daniel</hi>-like greatly beloved; thou that art bleſt, as if thou wert the darling and delight of Heaven; thou whom <hi>Wiſdom</hi> ſeems to court with both hands full, <hi>Length of days in her right hand,</hi>
+                     <note place="margin">Prov. 3.16.</note> 
+                     <hi>and in her left hand riches and honor:</hi> Thou that art honored before the <hi>Elders,</hi> and mag<g ref="char:EOLhyphen"/>nified in the gates of thy City,
+<note place="margin">Lam. 4.20. Chap. 5.16.</note> 
+                     <hi>The breath of their noſtrils, the joy of their hearts, the Crown of their head,</hi> the glory of <hi>Ephratah,</hi> the hopes and expectation of <hi>Beth-lehem, do thou worthily.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                     <hi>Thou:</hi> For <hi>te decet,</hi> it becomes thee; there is no ſuch incongruity as ill placed honor, as <hi>dignitas in indigno</hi> (ſo <hi>Salvian</hi>) a worthleſs perſon in a place of worth: <hi>As Snow in Summer,</hi>
+                     <note place="margin">Prov. 26.1.</note> 
+                     <hi>and Rain in Harveſt, ſo honor is not ſeemly for a fool.</hi> What a ridiculous monſter is worthleſs great<g ref="char:EOLhyphen"/>neſs?
+<note place="margin">Pſa. 12.8.</note>
+                     <pb n="31" facs="tcp:119627:27"/>when the vileſt men are exalted, <hi>Quiſquiliae popelli,</hi> the ſweepings of the raffle, the abjects, the loweſt of the people (like <hi>Jeroboams</hi> uſurping Prieſts) got into high places. Giants in honor, and Dwarffs in deſerts, are more mon<g ref="char:EOLhyphen"/>ſtrous then thoſe the <hi>Philoſopher</hi> calls <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> the ſins and by<g ref="char:EOLhyphen"/>blows of nature.</p>
+                  <p>But to ſee Goodneſs and Greatneſs walk hand in hand, outward <hi>excellencies</hi> inlaid with <hi>Grace</hi> and <hi>Holineſs,</hi> this is ele<g ref="char:EOLhyphen"/>gancy and beauty far above all the ac<g ref="char:EOLhyphen"/>compliſhments of fleſh and blood.
+<note place="margin">Job 41.12.</note> 
+                     <hi>I will not conceal his parts, nor his power, nor his comely proportion. Laudate Dominum in excelſis:</hi> To ſee God praiſed in the heights; to ſee Mountains of Holineſs, thoſe that are eminent in place, to be ſo in piety too,
+<note place="margin">Iſa. 35.2.</note> the glory of <hi>Lebanon</hi> is gi<g ref="char:EOLhyphen"/>ven unto them, the excellency of <hi>Carmel</hi> and <hi>Sharon: Do thou worthily;</hi> for <hi>te decet,</hi> it becomes thee.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                     <hi>Thou:</hi> for <hi>te oportet,</hi> it behoves thee; neceſſity is laid upon thee: Thy engage<g ref="char:EOLhyphen"/>ments are notable and numerous; God hath tied thee with cords of love;
+<note place="margin">Luke 1.49.</note> 
+                     <hi>He that is mighty hath done to thee great things, and holy is his name:</hi> He hath laid his
+<pb n="32" facs="tcp:119627:28"/>obligations thick upon thee, and unre<g ref="char:EOLhyphen"/>turned mercies carry a weight with them, are as heavy as judgments, will preſs to death. It is baſe Earth which requites the bounty of Heavens ſun and ſhowers with nothing but <hi>thorns and briers;</hi>
+                     <note place="margin">Heb. 6.8.</note> 
+                     <hi>it is rejected and nigh unto curſing, whoſe end is to be burned.</hi>
+                  </p>
+                  <p>It was the charge aginſt <hi>Saul,</hi> that he anſwered neither the expences, nor ex<g ref="char:EOLhyphen"/>pectations of God:
+<note place="margin">1 Sam. 15.11.</note> 
+                     <hi>It repenteth me that I have made</hi> Saul <hi>King.</hi> Such preferment might juſtly expect ſome performance; but unthankful wretch that he is, I ſee he cares not to inrich himſelf with the ſpoils of Heaven, and to raiſe his own name, though, if poſſible, with the ruines of mine: <hi>It repents me that I have made him King.</hi>
+                  </p>
+                  <p>
+                     <hi>Men and Brethren,</hi> let not our unwor<g ref="char:EOLhyphen"/>thineſs give God cauſe to repent of any mercy that he hath beſtowed on us; and where he hath ſown his favors thickeſt, let him reap the greateſt crop of thank<g ref="char:EOLhyphen"/>fulneſs. Remember your engagements recount your obligations, break not the Lords bonds in ſunder,
+<note place="margin">Pſal. 2.3.</note> caſt not away his cords from you: Do what you are bound to do; where much is forgiven, love
+<pb n="33" facs="tcp:119627:28"/>much, and where much is given, do much: <hi>Do thou worthily;</hi> for, <hi>te oportet, it behoves thee.</hi>
+                  </p>
+                  <p>To cloſe this: Greatneſs you ſee is a tye to goodneſs. <hi>My Lords and Gentle<g ref="char:EOLhyphen"/>men,</hi> you that are greater, be better then others; let your Holineſs go in as good a place as your Honors; let your riches of grace outvie your revenues: Let your goodneſs top as many as your great<g ref="char:EOLhyphen"/>neſs; make it appear though thoſe two do not often meet, yet it is not impoſſi<g ref="char:EOLhyphen"/>ble they ſhould come in conjunction. Let not your heights make you barren, as if you were under the curſe of the Moun<g ref="char:EOLhyphen"/>tains of <hi>Gilboa,</hi>
+                     <note place="margin">2 Sam. 1.21.</note> 
+                     <hi>that there ſhould be neither dew nor rain upon you. Oh let dew be upon Hermon, and let it deſcend upon the Moun<g ref="char:EOLhyphen"/>tains of Zion;</hi>
+                     <note place="margin">Pſ. 133.3.</note> 
+                     <hi>for there the Lord com<g ref="char:EOLhyphen"/>mands the bleſsing, even life for ever<g ref="char:EOLhyphen"/>more.</hi>
+                  </p>
+                  <p>That for the firſt Motive to do wor<g ref="char:EOLhyphen"/>thily, <hi>Thou, Boaz;</hi> a great Man, a Noble Perſon; <hi>do thou worthily.</hi>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <head>2.</head>
+                  <p>The ſecond is the place where ſuch a perſon is reſident: <hi>Ephratah. Do thou worthily in Ephratah.</hi>
+                  </p>
+                  <p>
+                     <hi>In Ephratah:</hi> Where's that? Enquire of a neighbor-word, and it will tell us,
+<pb n="34" facs="tcp:119627:29"/>
+                     <hi>Ephratah</hi> is a disjointed name, there is half of it behinde, <hi>Beth-lehem</hi> belonging to it, <hi>Beth-lehem</hi> and <hi>Ephratah</hi> are both one. The Spirit of God uſing the like elegancy of expreſſing one place by two words elſwhere;
+<note place="margin">Pſa. 76.2.</note> 
+                     <hi>At</hi> Salem <hi>is his Taber<g ref="char:EOLhyphen"/>nacle, and his dwelling place in</hi> Zion: Both which ſpeak but one <hi>Jeruſalem.</hi>
+                     <note place="margin">Joſh. 19.15. Judg. 12.8.</note> There was another <hi>Beth-lehem</hi> in <hi>Zebulon,</hi> the birth-place of Judge <hi>Ibzan;</hi> from which that it might be diſtinguiſhed, this of the Text is called ſometimes <hi>Beth-lehem Judah,</hi> ſometimes <hi>Beth-lehem Ephratah.</hi>
+                  </p>
+                  <p>This is that <hi>Beth-lehem</hi> of <hi>Judea,</hi>
+                     <note place="margin">Marth. 2.1.</note> ſo called by St. <hi>Matthew,</hi> where ſome time after, the Wiſe men ſought the Sun by Star-light, and found him, without whom the world was loſt. Nor did the blood of Innocents here ſhed by <hi>Herod,</hi> ſtain, but illuſtrate the place, it being the field,
+<note place="margin">
+                        <hi>Aetas rec dum ha<g ref="char:EOLhyphen"/>bilis ad pugnam idonea ca<g ref="char:EOLhyphen"/>titit ad coronam.</hi> Hier.</note> where thoſe little Champions who could not fight, conquered and are crowned, and by the charity, and upon the credit of the <hi>Primitive Church</hi> are acknowledged to lead in the Van of the Noble Army of <hi>Martyrs</hi> which have been ſince <hi>Shiloh</hi> came.</p>
+                  <p>It is obſerved to be ſituate on the very Umbilical point of the Earth; from
+<pb n="35" facs="tcp:119627:29"/>whence as from a Center,
+<note place="margin">Pſa. 19.4.</note> the Lines of comfort might go out through all the Earth, and the Word here made fleſh, to the ends of the World.</p>
+                  <p>Sometimes you have both theſe names in one.
+<note place="margin">Mic. 5.2.</note> 
+                     <hi>And thou</hi> Beth-lehem E<g ref="char:EOLhyphen"/>phratah, <hi>though thou be little among the thouſands of</hi> Judah.</p>
+                  <p>Sometimes one for both,
+<note place="margin">Gen. 35.19.</note> Rachel <hi>died and was buried in the way to</hi> Ephratah, <hi>which is</hi> Beth-lehem.</p>
+                  <p>Sometimes both for one, as here, <hi>Do thou worthily in</hi> Ephratah, <hi>and be famous in</hi> Beth-lehem.</p>
+                  <p>
+                     <hi>Ephratah</hi> was ſo called from <hi>Ephrath</hi> the wife of <hi>Caleb,</hi> ſay ſome; others,
+<note place="margin">1 Chron. 2.19.</note> and St. <hi>Hierome</hi> among the reſt,
+<note place="margin">
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>p. ad Euſt. 27.</note> 
+                     <hi>A fertili<g ref="char:EOLhyphen"/>tate, quâ locus ille aliis praeſtabat;</hi> from that great and notable <hi>fruitfulneſs</hi> in which it excelled other places; and ſo it is well coupled with <hi>Beth-lehem</hi> the houſe of Bread; a fruitful Land makes Houſes of Bread: And moſt deſervedly was this place called <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>fruitful,</hi> eſpeci<g ref="char:EOLhyphen"/>ally if we look at that fruit which ſprang here from the Root of <hi>Jeſſe, David,</hi>
+                     <note place="margin">Iſa 11.1.</note> and <hi>Jeſus</hi> the Son of <hi>David,</hi> the beſt fruit that ever the Earth bore.
+<note place="margin">John 7.42.</note> Hath not the <hi>Scripture</hi> ſaid, That <hi>Chriſt</hi> cometh of
+<pb n="36" facs="tcp:119627:30"/>the ſeed of <hi>David,</hi> and out of the Town of <hi>Beth-lehem</hi> where <hi>David</hi> was? It ſhall be ſaid of <hi>Beth-lehem Ephratah,</hi> that <hi>this and that man were born in her,</hi>
+                     <note place="margin">Pſ. 87.5.</note> 
+                     <hi>and the Higheſt himſelf came out of her; excellent things are ſpoken of thee, O City of God!</hi>
+                  </p>
+                  <p>I cannot ſpeak much of it now; only thus:
+<note place="margin">Deut 12.5.</note> It was a near neighbor to <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> the place which God choſe out of all the tribes to put his name there, having that advantage which S. <hi>Paul</hi> ſpeaks of, that to them above many and among few others,
+<note place="margin">Ro. 3 2. Ro. 9.4, 5.</note> 
+                     <hi>were committed the oracles of God; to them pertained the a<g ref="char:EOLhyphen"/>doption, and the glory, and the Covenants, and the giving of the Law, and the ſervice of God and the promiſes; of whom as con<g ref="char:EOLhyphen"/>cerning the fleſh Chriſt came, who is over all, God bleſſed for ever, Amen.</hi> It was a City in whoſe palaces God was known for a refuge: It was a City of <hi>Judah,</hi> and <hi>in Judah is God known, his name is great in Iſrael.</hi> Here muſt <hi>Boaz</hi> do worthily, here eſpecially, here if any where; ſuch a Theatre is only for worthy actions. <hi>Do thou worthily in Ephratah.</hi>
+                  </p>
+                  <p>Men and brethren! We live in <hi>E<g ref="char:EOLhyphen"/>phratah,</hi> a fruitful land, and our houſes
+<pb n="37" facs="tcp:119627:30"/>are like <hi>Beth-lehem,</hi> houſes of bread; The lines are fallen to us in pleaſant places, and we have a goodly heritage: The fountain of <hi>Jacob</hi> is upon a land of corn, and milk, and honey,
+<note place="margin">Deut. 33.28.</note> alſo our heavens drop down dew: God crowns our years ſucceſſively with his goodneſs, and his clouds drop fatneſs. And which is beyond all theſe,
+<note place="margin">Pſ. 65.11.</note> how are we warmed with the glorious and deſireable days of the <hi>Son of man!</hi> Does not man eat An<g ref="char:EOLhyphen"/>gels food, and are we not dieted with the bread of heaven? What a rich con<g ref="char:EOLhyphen"/>fluence of evangelical enjoyments have we lived under?
+<note place="margin">Pſ. 147.20.</note> He hath not dealt ſo with every nation: He hath fed us with the fineſt of all the wheat,
+<note place="margin">Pſ. 81.16.</note> and ſatisfied us with the very honey out of the rock of goodneſs.</p>
+                  <p>And now, O man, what doth the Lord thy God require of thee, but to do worthily? worthy of God, his Goſpel, his goodneſs, the <hi>Ephratah,</hi> the <hi>Beth<g ref="char:EOLhyphen"/>lehem</hi> thou liveſt in:
+<note place="margin">Iſa. 26.1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> Let not all this favor be ſhewed thee, and yet thou not learn righteouſneſs: Let it not be charg'd upon thee, that in the land of uprightneſs thou ſtill dealeſt unjuſtly, and wilt not behold the majeſty of the Lord. The
+<pb n="38" facs="tcp:119627:31"/>cities wherein moſt of the mighty works were done,
+<note place="margin">Mat. 11.20, 21.</note> were upbraided, and no leſs then a woe will ſerve <hi>Chorazin</hi> and <hi>Beth<g ref="char:EOLhyphen"/>ſaida,</hi> becauſe <hi>Tyre</hi> and <hi>Sidon,</hi> under ſuch manifeſtations and viſits from heaven, would have repented long before in ſack<g ref="char:EOLhyphen"/>cloth and aſhes. It was that which ren<g ref="char:EOLhyphen"/>dred the rape of the <hi>Gibcathites</hi> more odious,
+<note place="margin">Judg. 20.10.</note> becauſe it was <hi>folly in Iſrael;</hi> they did evil in a good land. And it was the emphatical goodneſs of <hi>Jeroboam's</hi> ſon,
+<note place="margin">1 King. 14.13.</note> that in him <hi>was found ſome good thing toward the Lord God of Iſrael, in the houſe of Jeroboam;</hi> he was good in an ill houſe. Conſidering where we live, ſhould make us conſult what we do. Places do nota<g ref="char:EOLhyphen"/>bly circumſtantiate actions; remember <hi>Ephratah,</hi> and do worthily: <hi>Do thou wor<g ref="char:EOLhyphen"/>thily in Ephratah.</hi>
+                  </p>
+                  <p>That for the ſecond motive to doing worthily, the place where this great per<g ref="char:EOLhyphen"/>ſon was reſident, <hi>Ephratah: Do worthily in Ephratah.</hi>
+                  </p>
+               </div>
+               <div n="3" type="section">
+                  <head>3.</head>
+                  <p>The third is taken from the name that is attendant on ſuch a great perſon, in ſo eminent a place, doing thus worthily; and that is here termed <hi>famous: And be famous in Beth-lehem. Fac praedicetur no<g ref="char:EOLhyphen"/>men,</hi> make that thy name may be preach<g ref="char:EOLhyphen"/>ed
+<pb n="39" facs="tcp:119627:31"/>and cryed up, as <hi>Tremellius</hi> renders it: <hi>Proclaim thy name,</hi> as the Margin gives it from the Hebrew: <hi>Habeas nomen ce<g ref="char:EOLhyphen"/>lebre,</hi> ſo the Vulgar Latine; <hi>Have a great, a renowned, a famous name.</hi> All ſpeak one and the ſame thing; <hi>Be famous in Beth-lehem.</hi>
+                  </p>
+                  <p>A <hi>good name</hi> is a great bleſſing, and the guerdon of worthy actions: As the works, ſo the worth of bleſſed men and women follow them. <hi>Mary Magdalen</hi> for her Box of precious Ointment,
+<note place="margin">Eccleſ. 7.1.</note> hath a <hi>good name</hi> given her, which <hi>Solomon</hi> ſays is the better of the two;
+<note place="margin">Mat. 26.13.</note> and where<g ref="char:EOLhyphen"/>ever the Goſpel is preached, that which ſhe did is told for a memorial of her. What an honor have the <hi>Romans</hi> got in one line of S. <hi>Paul's</hi> Epiſtle to them, far above all that Hiſtories write of them and their Anceſtors proweſs; That their <hi>faith is ſpoken of throughout the whole world.</hi>
+                     <note place="margin">Ro. 1.8.</note> Thoſe Worthies whoſe heads are now crowned in heaven, have their names cried up on earth; for, <hi>by faith they have obtained a good report,</hi> as it is ſaid of them, where they are fairly liſted, <hi>Heb.</hi> 11. <hi>Memoria juſti in benedicti<g ref="char:EOLhyphen"/>one; The memory of the juſt is bleſſed,</hi>
+                     <note place="margin">Pro. 10.7.</note> 
+                     <hi>but the name of the wicked ſhall rot.</hi>
+                  </p>
+                  <pb n="40" facs="tcp:119627:32"/>
+                  <p>It is obſerved that God ſhews himſelf much in the diſpoſal and ordering of mens names: He deals with their names, as he affects their perſons; ſo that his love or his anger, bleſſing or puniſhment, are legible in names. Is God angry? he'll cut and curtail them, he'll take them off by the halfs: <hi>Jeconiah</hi> ſhall be but <hi>Coniah,</hi> and enough for him too, without he were better;
+<note place="margin">Jer. 22.24.</note> 
+                     <hi>Though Coniah the ſon of Jehoiakim king of Judah were the ſignet upon my right hand, yet would I pluck him thence.</hi> Is God pleaſed? ſometimes he'll add and enlarge:
+<note place="margin">Gen. 17.5.</note> 
+                     <hi>Thy name ſhall no more be called Abram, but Abraham.</hi> Some<g ref="char:EOLhyphen"/>times he'll alter and change: <hi>Thy name ſhall no more be called Jacob,</hi>
+                     <note place="margin">Gen. 32.28.</note> 
+                     <hi>but Iſrael; for as a Prince haſt thou power with God and with man, and haſt prevailed.</hi> Hath God a mind to puniſh?
+<note place="margin">Deut. 9.14.</note> he'll expunge and eraſe: <hi>Let me alone that I may deſtroy them and blot out their name from under heaven.</hi>
+                     <note place="margin">Iſa. 56.5.</note> Does he intend to bleſs? Then, <hi>I will give them a name better then of ſons and of daughters; I will give them an everlaſting name, which ſhall not be cut off.</hi>
+                  </p>
+                  <p>God is ever ready to honor them that have honored him,
+<note place="margin">1 Sam. 2 30 Pſ. 91.14</note> to ſet them on high that have known his name: As their
+<pb n="41" facs="tcp:119627:32"/>lives and deaths, ſo their names and me<g ref="char:EOLhyphen"/>mories are precious in his ſight; they ſhall not be forgotten, nor out of the mind of God, when they are dead men and out of the ſight of the world. It was a very paſſionate expreſſion, and ſpake abundance of love, that of <hi>Ruth</hi> to <hi>Na<g ref="char:EOLhyphen"/>omi: Where thou dieſt will I die,</hi>
+                     <note place="margin">ch. 1.17.</note> 
+                     <hi>and there will I be buried.</hi> But the love or God is wonderful, <hi>paſsing the love of women:</hi>
+                     <note place="margin">2 Sam. 1.26.</note> He ſays, Where thou dieſt, my care ſhall not die, and there will I not bury my loving kindneſs; mine eyes ſhall be upon thee in the chambers of darkneſs, my faith<g ref="char:EOLhyphen"/>fulneſs ſhall be ſeen in the grave; I'll value thy very duſt, and ſet a price upon thy ſcatter'd atoms; I'll embalm thy name for after-ages, and ſend it down to poſterity with a reliſh;
+<note place="margin">Eccl. 49.1.</note> it ſhall be ſweet as honey in all mouths, and as muſick at a banquet of wine.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>A word of inference; And I'll pro<g ref="char:EOLhyphen"/>miſe you to have done with the Text, and be as good as my word too.</p>
+               <p>If fame be the reward of worth, and it be ſuch an honor to have a name on earth,
+<note place="margin">Lu. 10.20.</note> what is it to have our names writ<g ref="char:EOLhyphen"/>ten in heaven? If it be ſuch a happineſs to have a deſerved good name written
+<pb n="42" facs="tcp:119627:33"/>upon a tomb-ſtone for others to read, what is it to have the <hi>white ſtone</hi> given, and in the ſtone <hi>a new name written,</hi>
+                  <note place="margin">Rev. 2.17.</note> 
+                  <hi>which no man knoweth ſaving he that re<g ref="char:EOLhyphen"/>ceiveth it?</hi> If it be ſuch a bleſſing to have our names up, when we are no more ſeen; what will it be to ſee the face of God, and have his name written in our foreheads?
+<note place="margin">Rev. 22.4.</note> 
+                  <hi>Such honor have all his Saints.</hi>
+               </p>
+               <p>Men and Brethren, Do you conſult your fames? Would you have a name? Not any name, not ſuch an one as <hi>Jero<g ref="char:EOLhyphen"/>boam's</hi> which is ſeldom met without that ſad clog hanging at it, <hi>that made Iſrael to ſin?</hi> Not an empty, aiery, frothy name, ſuch as thoſe Ranters at the build<g ref="char:EOLhyphen"/>ing of <hi>Babel</hi> aimed at,
+<note place="margin">Gen. 11.4.</note> 
+                  <hi>Let us make us a name?</hi> Not ſuch a name as <hi>Abſalom</hi> de<g ref="char:EOLhyphen"/>ſigned, of whom it is ſaid, <hi>Erexerat ſibi titulum,</hi>
+                  <note place="margin">2 Sam. 18.18.</note> 
+                  <hi>He reared himſelf a pillar;</hi> ſome Pyramid, ſome Monument with an in<g ref="char:EOLhyphen"/>ſcription, more title then truth, to ſpeak more for him then he deſerved: And therefore God made his Ambition as iſſueleſs as his body, and diſpoſed of him under a rude heap of ſtones, as fitteſt for him whoſe name was rotten before his carkaſs? Not a name to be toſſed
+<pb n="43" facs="tcp:119627:33"/>up and down, and talked of in the world, which is of no advantage: <hi>Vae tibi Ari<g ref="char:EOLhyphen"/>ſtoteles, laudaris ubi non es, damnaris ubi es;</hi> It is miſerable happineſs to be commended where a man is not, and to be condemned where he is. But would you be famous in <hi>Beth-lehem?</hi> Have a name with God and good men? A name like <hi>Demetrius,</hi>
+                  <note place="margin">3 Joh. 12.</note> who had a good report of all men, and of the truth it ſelf? A name inrolled in the Book oflife, which may tread on the grave of Hiſtory,
+<note n="*" place="margin">Habent ſua fata ſepul<g ref="char:EOLhyphen"/>chra.</note> bury Monuments, outlive the funerals of the world, ſee Time laid in the duſt, and ſtand up with Eternity? Would you attain to that <hi>good name</hi> which is rather to be choſen then <hi>great riches?</hi>
+                  <note place="margin">Pro. 22.1. 2 Tim 4.7, 8. Rev. 3.12.</note> The way to it is by worth: <hi>Fight a good fight, finiſh your courſe, keep the faith, and take the crown: Overcome and be a pillar in the temple of God, and have the name of God, and the name of the city of God, and the new name written upon you.</hi>
+               </p>
+               <p>Set the ſpur of glory to your ſide;
+<note place="margin">Ro. 27.</note> by patient continuance in well-doing, ſeek for honor, and glory, and immor<g ref="char:EOLhyphen"/>tality:
+<note place="margin">Dan. 12.3.</note> Be wiſe and ſhine as the bright<g ref="char:EOLhyphen"/>neſs of the Firmament, work righteouſ<g ref="char:EOLhyphen"/>neſs and ſhine as the Stars for ever and
+<pb n="44" facs="tcp:119627:34"/>ever: Make <hi>Ephratah</hi> witneſs of your worth, and <hi>Beth-lehem</hi> ſhall record your fame.</p>
+               <epigraph>
+                  <q>Do thou worthily in Ephratah, and be famous in Beth-lehem.</q>
+               </epigraph>
+            </div>
+            <div type="part">
+               <p>I Have done with the Text; and now there'll need but little to bring it and the Occaſion together. The perſons, Actions, Fame, all run ſo true a parallel, every one is by this time ready to pre<g ref="char:EOLhyphen"/>vent me in the application.</p>
+               <div type="section">
+                  <p>Firſt then, for that eminent Perſon whoſe Obits we this day ſolemniſe: He was <hi>Boaz,</hi> of antient and very honorable deſcent; it would lead us up to the fur<g ref="char:EOLhyphen"/>ther end of our Engliſh antiquities, to follow his Name to the riſe of it. And no ſmall happineſs it is for a people to have ſuch in place; if King <hi>Solomon's</hi> vaſt knowledge and full grown experi<g ref="char:EOLhyphen"/>ence had taught him what happineſs is: <hi>Happy art thou,</hi>
+                     <note place="margin">Eccl. 10.17.</note> 
+                     <hi>O Land, when thy King is the Son of Nobles.</hi> Such Progenitors be<g ref="char:EOLhyphen"/>ing often, not always, bleſſed in ſuitable productions:
+<q>
+                        <l>— Nec imbellem feroces</l>
+                        <l>Progenerant aquilae columbam.</l>
+                     </q>
+                  </p>
+                  <pb n="45" facs="tcp:119627:34"/>
+                  <p>Then for the Place, you may read it in his Eſcucheons; if you look at them, you may find there both <hi>Ephratah</hi> and <hi>Beth-lehem.</hi> Behold the Garbs,
+<note place="margin">
+                        <hi>Guil. Diſ. of Heral. p.</hi> 151.</note> the <hi>Sheaves,</hi> and they ſignifie plenty or a<g ref="char:EOLhyphen"/>bundance, that their firſt Bearer did de<g ref="char:EOLhyphen"/>ſerve well for his hoſpitality; there you have <hi>Ephratah,</hi> Fruitfulneſs.
+<note place="margin">
+                        <hi>Idem p.</hi> 77.</note> Look at the <hi>Cheveron,</hi> and there the Heralds ſhew us the repreſentation of a Houſe in the roof or rafters of it; there's <hi>Beth-lehem, a houſe of bread,</hi> a plentiful houſe; and ſuch was his, I need not go out of the Congregation for witneſſes of it. So that he which looks on his Eſcucheons, may ſee another interpretation of <hi>Joſephs</hi> dream:
+<note place="margin">Gen. 37.7.</note> 
+                     <hi>Lo his ſheaf aroſe and ſtood upright, and behold the ſheaves that ſtood round about it did obeiſance to his ſheaf.</hi>
+                  </p>
+                  <p>And if you ſay, theſe are to be reckon<g ref="char:EOLhyphen"/>ed among the — <hi>Quae non fecimus ipſi,</hi> thoſe Honors which came to him, rather then he to them: Let us go on to the parts of the Text, and come to the <hi>A<g ref="char:EOLhyphen"/>gendum,</hi> the ſomething to be done; and there you ſhall find him nobly active and doing his part. He was much for action; his hand ever kept pace with, and for the moſt part outwent his tongue.</p>
+                  <pb n="46" facs="tcp:119627:35"/>
+                  <p>He was not practiſed in falſe Court<g ref="char:EOLhyphen"/>ſhip, and perfectly hated that fooliſh oſtentation which our Saviour chargeth upon the Phariſees,
+<note place="margin">Mat. 23.3.</note> 
+                     <hi>They ſay and do not.</hi> He would do as much, as others think enough to ſay; And it was his grave and ſober manner, rather to do a favor then profeſs it. He ſhewed his faith by his works;
+<note place="margin">Jam. 2.18. 1 Joh. 3.18. Joh. 13.17.</note> and <hi>loved not in word, nor in tongue, but in deed and in truth:</hi> Reckon<g ref="char:EOLhyphen"/>ing of that only as happineſs, <hi>to know the things of God and to do them.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <p>Next for the rule of doing, it was that of the Text; He did <hi>worthily;</hi> take the word in what ſignification you pleaſe.</p>
+                  <p>Firſt he did <hi>decently,</hi> things like him<g ref="char:EOLhyphen"/>ſelf. We may ſay of his actions, as <hi>Zeba</hi> and <hi>Zalmunna</hi> of the brethren of <hi>Gideon;</hi>
+                     <note place="margin">Judg. 8.18.</note> 
+                     <hi>As he was, ſo were they, each one reſembled the children of a Prince.</hi> You might ſee what he was, by what he did; every action ſpake it ſelf the child of honor: He hated any thing that looked like un<g ref="char:EOLhyphen"/>worthineſs; And though he was very humble, yet he knew how to be <hi>a man and no worm,</hi> as well as when to be <hi>a worm and no man:</hi> He knew when to lay his Honor in the duſt, and when to
+<pb n="47" facs="tcp:119627:35"/>no duſt lie upon his Honor: He could tell when it was not ſeaſonable nor hand<g ref="char:EOLhyphen"/>ſom for his Honor to ſtoop; of which ſome inſtance might be given, but the time will not bear it.</p>
+                  <p>Next, He did <hi>deſervingly,</hi> meriting much and many ways: And though we cannot ſay of him as of the Centurion, <hi>He loved our Nation and hath built us a Synagogue;</hi>
+                     <note place="margin">Lu. 7 5.</note> yet he loved this part of our Nation, and to witneſs it, declared, not long before his death, his intentions to repair and keep againſt the aſſaults of time, our Synagogue, I mean that ele<g ref="char:EOLhyphen"/>gant ſtructure of the Cathedral at <hi>Lin<g ref="char:EOLhyphen"/>coln,</hi> (as ſometime his Grandfather, when Lord Preſident of the North, interceded for the Conventual Church of <hi>Rippon.</hi>) And this I may ſay was done, becauſe purpoſed by him: For ſo God tells <hi>David</hi> upon his deſign for building the Temple;
+<note place="margin">1 King. 8.18.</note> 
+                     <hi>Whereas it was in thine heart to build an houſe unto my name, thou didſt well that it was in thine heart.</hi> This is a choiſe piece of deſert, I wiſh it may have ſome followers, that ſuch a pur<g ref="char:EOLhyphen"/>poſe may not die and go to the duſt with him.</p>
+                  <p>Then, He did <hi>exemplarily:</hi> His whole
+<pb n="48" facs="tcp:119627:36"/>life was a Copy of Vertue fairly written over with few, very few blots. He was one of thoſe whom <hi>Tully</hi> calls <hi>loquentes leges,</hi> ſpeaking Laws, unprinted Statutes, in whom men might read their duties, as well as hear them from him. He knew what <hi>great evils</hi> evil <hi>great ones</hi> are; that they have many followers, go they whi<g ref="char:EOLhyphen"/>ther they will, and ſeldom go to hell alone: — <hi>Tutum eſt peccare authoribus illis.</hi> And therefore he was a practical Com<g ref="char:EOLhyphen"/>ment upon that <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> of the Apoſtle,
+<note place="margin">Eph. 5.15.</note> 
+                     <hi>See that you walk circum<g ref="char:EOLhyphen"/>ſpectly,</hi> or <hi>exactly.</hi> Examples ſhould be exact, and ſo was he. But more of this by and by.</p>
+                  <p>He did <hi>excellently</hi> too: His actions were <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> right by the rule, his dealings eaven and ſquare: Great was his integrity, appearing in all parts both of commutative and diſtributive juſtice. Thoſe who dealt with him, know his commutative; and thoſe who had been ill dealt with but for him, may be thank<g ref="char:EOLhyphen"/>ful witneſſes of his diſtributive juſtice. I could benight my Auditory with a diſcourſe of this ſubject; but, I muſt contract. He was a <hi>Worthy,</hi> I will not aſſign him his place, let impartial po<g ref="char:EOLhyphen"/>ſterity
+<pb n="49" facs="tcp:119627:36"/>decide it, whether among <hi>thirty,</hi> or among <hi>three.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <p>And now for that <hi>Exemplarity,</hi> in which I ſhall engage all my following diſcourſe; not as if I were ſuch a ſlave to the curſe of the Council of <hi>Trent,</hi> that I dare not but prefer the Vulgar Latine (though but a tranſlation) before the Ori<g ref="char:EOLhyphen"/>ginal, but making now for my purpoſe, I ſhall readily follow it, and ſpeak of ſome of thoſe many vertues wherein the decea<g ref="char:EOLhyphen"/>ſed Lord was very exemplary. Of ſome, I ſay; for I do not, I dare not undertake to give you in a perfect Liſt of his nu<g ref="char:EOLhyphen"/>merous excellencies: As well might the Spies who went to ſearch the land,
+<note place="margin">Num. 13.</note> en<g ref="char:EOLhyphen"/>gage to bring all the land upon their ſhoulders, and lay it down before them that ſent them: It will be enough; and as much as the declining day will allow,
+<note place="margin">v. 23.</note> to let you ſee ſome Pomegranates, ſome Bunches of grapes, and ſome of the Figs; they'll give you a taſte, and make you ſome diſcoveries; <hi>by their fruits you ſhall know them:</hi>
+                     <note place="margin">Mat. 7.16.</note> 
+                     <hi>Do men gather grapes of thorns, or figs of thiſtles?</hi> You may gheſs at the gardens of the <hi>Heſperides,</hi> when you ſee ſome of the golden apples which there grew.</p>
+                  <pb n="50" facs="tcp:119627:37"/>
+                  <p>And here I might ſpeak of him in his ſeveral capacities, <hi>Lord, Landlord, Huſ<g ref="char:EOLhyphen"/>band, Father, Friend:</hi> In which he has not miſcarriages to bewail like him that cried out, <hi>Omnia fui, nihil profui; I was every thing, and did nothing!</hi> For he made every ſtation an advantage to do good by; All his Relations were as ſo many cuts and channels for his goodneſs to run and flow in. But this would lay more load upon them that groan under the burden of their loſs, and give them more gaſhes whoſe wounds are deep e<g ref="char:EOLhyphen"/>nough already; it may ſuffice to have named it.</p>
+                  <p>We ſhall go on; beginning firſt as he began every day, with his Devotions. God was next his heart, he gave him his morning-thoughts, yea and his evening too:
+<note place="margin">Pſ. 55.17.</note> Evening, morning, and at noon did he pray; four times a day, twice in his family, and twice in his cloſet, was his courſe, to which he was faithfully conſtant, ſay they that were near him. God was firſt and laſt in his mind and meditations:
+<q>Te veniente die, te decedente canebam.</q>
+                     <pb n="51" facs="tcp:119627:37"/>He entred, and ended every day with him: His honor neither made him ſo high, but he could bow down, nor ſo ſtiff but he would <hi>worſhip and kneel before the Lord his Maker.</hi>
+                     <note place="margin">Pſ. 95.6.</note> Nothing on Earth could make him neglect ſending to Heaven; a ſign and evidence that he had great concerns, where he held ſuch daily intelligence: No queſtion but he had a Bank of Glory going on, which made him ſend and ſeek ſo often, ſo earneſtly after it; his treaſure was in Heaven, and his heart was there alſo.</p>
+                  <p>Another excellencie which will come in as a good ſecond to this, was his <hi>Conſtancie to the truths of Religion;</hi> the more commendable, becauſe in ſuch bogling and ſtarting times: So that it may be ſaid of him as of <hi>Trajan,</hi> He was <hi>Melior pejori aevo,</hi> Good, and the better for being ſo in a worſe age. He was fixed in flitting times; <hi>in lubrica aetate,</hi> that's S. <hi>Hierom's</hi> word. And he ſtood his ground in a time of univerſal apoſtacie and revolts: He was no miſcellaneous <hi>Samaritan,</hi> no temporiſing <hi>Any thing, Every thing, No thing:</hi> He was not <hi>No<g ref="char:EOLhyphen"/>bilis &amp; Mobilis,</hi> like the Courtiers of
+<pb n="52" facs="tcp:119627:38"/>the Heathen Tyrants at the firſt entry of Chriſtianity into this Nation, who meaſured out their Profeſſion by the Sword, liking the longeſt always beſt, and being Chriſtian or Pagan, according to the humor of the Conqueror. <hi>Naaman</hi> is for the <hi>God of Iſrael,</hi> but he muſt have a toleration for the <hi>houſe of Rimmon.</hi> Great ones commonly move as (they ſay) the Planets do, they will have their <hi>Epicycles.</hi> 'Tis Conſtancie commends the deceaſed Lord: It's choiſe fruit that keeps ſound at the core in a rotten age. And I might tell you, as he was ſtayed in himſelf, ſo he was a ſtay to others: I dare not ſay as of <hi>Athanaſius,</hi> that the Church leaned on him in her perſecution; but I may ſay, that he was <hi>a refuge from the ſtorm;</hi>
+                     <note place="margin">Iſa. 25.4.</note> 
+                     <hi>Bleſs God for this Lord, O houſe of Aaron! let the houſe of Levi ſay that he was good!</hi> And I'll ſay no more of this.</p>
+                  <p>I know not where to be next, I have ſuch choice. His <hi>Wiſdom;</hi> let us look at that a while. To this he had a good title, whether we look at it as <hi>Science,</hi> or <hi>Pru<g ref="char:EOLhyphen"/>dence.</hi> It was great in him, but not loud: Deep ſtreams ſlide away in ſilence, whereas ſhallow rills babble in their
+<pb n="53" facs="tcp:119627:38"/>paſſage, and cannot roll down their chan<g ref="char:EOLhyphen"/>nels without a noiſe. He was very re<g ref="char:EOLhyphen"/>ſerved, and no wonder if ſo much trea<g ref="char:EOLhyphen"/>ſure was under a lock, of which he kept the key himſelf; and when he did open it, it was to good purpoſe, ſo that when the <hi>ear heard him, it bleſsed him.</hi>
+                     <note place="margin">Job 29.11.</note> By this wiſdom of his I do not mean a crafty cunning, which proſtrates and lays down honor, and honeſty, and conſcience, and religion and all to tread on, and climbs up to greatneſs by any ſteps; But that gracious gift which is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>from above,</hi>
+                     <note place="margin">Ja. 3.17.</note> 
+                     <hi>and is pure and peaceable, and gentle, and eaſie to be intreated, full of mercy and good works, without partiality, without hypocriſie.</hi> For which he hath a place among thoſe the Son of <hi>Sirach</hi> ſpeaks of, <hi>The people will tell of their wiſdom,</hi>
+                     <note place="margin">Ecclus. 44.15.</note> 
+                     <hi>and the congregation will ſhew forth their praiſe.</hi>
+                  </p>
+                  <p>As a branch of this Prudence, I may ſpeak of his Providence, not for this life only (which was diſcreet and commend<g ref="char:EOLhyphen"/>able) but chiefly for that which is to come; knowing he could not be happy on this ſide glory:
+<note place="margin">Job 14.14. 2 Tim. 4.6.</note> Therefore did he <hi>wait for his change,</hi> and the <hi>time of his departure,</hi> which he looked on as at hand,
+<pb n="54" facs="tcp:119627:39"/>and foreſaw at ſome diſtance, and laid in for it. <hi>Parum viae, multum viatici:</hi> When he had but a little way to go, he made great proviſion for it. And though he did <hi>build,</hi>
+                     <note place="margin">Pſ. 49.11.</note> it was not with thoſe in<g ref="char:EOLhyphen"/>ward thoughts that <hi>his houſe ſhould con<g ref="char:EOLhyphen"/>tinue for ever, and his dwelling-place to all generations.</hi> He was well acquainted with that obſervation, <hi>That great Build<g ref="char:EOLhyphen"/>ers are ſeldom long Poſſeſſors:</hi> And there<g ref="char:EOLhyphen"/>fore carried on a Building for Heaven and Earth both together; and did ſo little rely on this foundation in the duſt, as that he was ſtill careful to lay up in ſtore for himſelf a good foundation againſt the time to come,
+<note place="margin">1 Tim. 6.19.</note> that he might lay hold on eternal life.</p>
+                  <p>Another grace, and another evidence of his wiſdom, was his <hi>Meekneſs:</hi> So runs the Apoſtles rule;
+<note place="margin">Ja. 3.13.</note> 
+                     <hi>Who is a wiſe man, and endued with knowledge among you? let him ſhew out of a good converſa<g ref="char:EOLhyphen"/>tion his works with meekneſs of wiſdom.</hi> He ſhewed it, ſhewed it notably, ſhewed it always. That which would have raiſed a ſtorm in ſome breaſts, would not ſtir in his;
+<note place="margin">Seneca.</note> 
+                     <hi>Inferiora fulminant.</hi> He was calm and clear like the upper region of the air, whilſt all tempeſts and bluſtrings are
+<pb n="55" facs="tcp:119627:39"/>below. I am perſwaded he had out<g ref="char:EOLhyphen"/>learn'd moſt that lived ſince our Saviour gave out that leſſon, <hi>Learn of me,</hi>
+                     <note place="margin">Mat. 11.29.</note> 
+                     <hi>for I am meek and lowly in heart;</hi> And now takes part in the annexed promiſe, <hi>You ſhall find reſt unto your ſouls.</hi>
+                  </p>
+                  <p>We muſt not overlook that low, but high-prized grace of <hi>Humility:</hi> He was eminent in it; this was his <hi>ſchola &amp; ſcala coeli,</hi> a ſchool to teach, a ſcale to reach heaven. He was an high Star, and ap<g ref="char:EOLhyphen"/>peared little; yet it was not in the eyes of others, but in his own, which made him great in God's:
+<note place="margin">Iſa. 57.15.</note> 
+                     <hi>I dwell with him that is of an humble ſpirit.</hi> This lying low made him a rich ſoil for graces to grow in, <hi>fruitful in every good work.</hi>
+                     <note place="margin">Col. 1.10.</note> The vallies ſtand ſo thick with corn,
+<note place="margin">Pſal. 65.14.</note> 
+                     <hi>they laugh and ſing:</hi> So have you ſeen a fruitful Tree with its laden boughs ſtooping to the earth, when ſome proud aſpiring Plants have run up all into branches, and exalted their fruit<g ref="char:EOLhyphen"/>leſs tops.</p>
+                  <p>Nor may we paſs his remarkable <hi>Temperance</hi> and <hi>Sobriety,</hi> which he both loved in himſelf, and looked after in his family. Nor did this proceed from any weakneſs of body, but goodneſs of
+<pb n="56" facs="tcp:119627:40"/>mind; It was not the choice of an infirm conſtitution, but of a vertuous inclination. And the more commend<g ref="char:EOLhyphen"/>able it is, becauſe in theſe days, where<g ref="char:EOLhyphen"/>in luxury and riot have ſo far obtained, that Entertainments are never thought <hi>well enough,</hi> except they be <hi>wet enough;</hi> and Drunkenneſs is deem'd the moſt faſhionable and familiar treatment. And the greater the vertue ſtill, becauſe in a Great perſon; Drink being become a Flood, which like the great Deluge too often tops the Mountains:
+<note place="margin">Gen. 9.21. 1 Sa. 25.11, &amp; 36.</note> So eaſie it is even for <hi>Noah</hi> to plant a Vineyard and be drunk; and rich <hi>Nabal,</hi> that wretched Churl, who could not afford <hi>David</hi> a little water, to overcharge himſelf with wine. A rare thing it is, to ſwim in Plenty, and not ſwallow down too much of it.</p>
+                  <p>His <hi>Charity</hi> would ſpeak for it ſelf, ſhould I hold my tongue: Not that the Hypocrites trumpet gave notice of it,
+<note place="margin">Mat. 6.2.</note> (For I have reaſon to think, much of it ran inviſible, like the
+<note n="*" place="margin">
+                        <hi>Mola &amp; Anas. Cam. Br. p.</hi> 296.</note> Rivers our <hi>Antiquary</hi> tells us of, which ſpend their ſtreams in part under ground;) but becauſe he left ſuch tokens of it in all places where he came, pouring it out
+<pb n="57" facs="tcp:119627:40"/>rather then giving it; He was God's Almoner with his own eſtate. He had <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,
+<note place="margin">Col. 3.12.</note> that word which hath, and yet will have no ſingular num<g ref="char:EOLhyphen"/>ber, <hi>bowels of mercies.</hi>
+                     <note place="margin">Iſa. 58. 10</note> He would <hi>draw out his own ſoul to the hungry, and ſatisfie the afflicted ſoul.</hi> Let me borrow an ex<g ref="char:EOLhyphen"/>preſſion or two from <hi>Job,</hi> they'll fit us as well as if they had been made on purpoſe.
+<note place="margin">Job 31.17.</note> 
+                     <hi>He would not eat his morſels alone, the ſtranger and fatherleſs muſt eat thereof:</hi>
+                     <note place="margin">v. 19.</note> 
+                     <hi>He would not ſee any periſh for want of clothing, or the poor without co<g ref="char:EOLhyphen"/>vering:</hi>
+                     <note place="margin">v. 20.</note> 
+                     <hi>Many loins bleſſed him and were warmed with the fleece of his ſheep: He was eyes to the blind, and feet to the lame,</hi>
+                     <note place="margin">ch. 29.15.</note> 
+                     <hi>and a father to the poor: The bleſsing of him that was ready to periſh came upon him,</hi>
+                     <note place="margin">v. 13.</note> 
+                     <hi>and he cauſed the widows heart to ſing for joy.</hi> I'll ſay no more of this, many mouths are full of it, this place is a ſtanding Monument of his Cha<g ref="char:EOLhyphen"/>rity: <hi>He hath diſperſed,</hi>
+                     <note place="margin">Pſ. 112.9.</note> 
+                     <hi>he hath given to the poor, his righteouſneſs endureth for ever, his horn ſhall be exalted with honor.</hi>
+                  </p>
+                  <p>I fear to have ſpent your <hi>Patience,</hi> before I ſpeak of his: But a word of it therefore. This grace was in him (like
+<pb n="58" facs="tcp:119627:41"/>the reſt, which makes them thus con<g ref="char:EOLhyphen"/>catenated) <hi>in gradu heroico,</hi> in an high and invincible meaſure, not to be broken, nor baffled by any aſſaults. As he was not <hi>Tumidus agendo,</hi> ſo neither was he <hi>Timidus patiendo;</hi> He did nothing proudly,
+<note place="margin">Heb. 10.32.</note> he ſuffered no<g ref="char:EOLhyphen"/>thing poorly. Many a <hi>great fight of affliction</hi> (as the Apoſtle phraſeth it) did he endure, endure without ſhrink<g ref="char:EOLhyphen"/>ing, or recoiling; one whereof had been charge enough for ordinary pieces of Mortality. Indeed, his whole life was a continued act of Patience, under a ſucceſſion of ſeveral Sickneſſes and Infirmities; having (as it is ſaid of overworne Students) <hi>Bonam Conſci<g ref="char:EOLhyphen"/>entiam, &amp; malam Valetudinem,</hi> a clear Conſcience, and a crazie Carkaſs. He had <hi>need of patience,</hi>
+                     <note place="margin">v. 36.</note> and he had <hi>patience for his need;</hi> ſo much, that you have ſeldom heard of the like; it being obſerved (as I am credibly informed) he was rarely, or never heard to groan under whole loads of preſſures that lay upon him. God had laid in much of this grace, where he intended it ſhould be much laid out; He had given him a ſtock of it ſuit<g ref="char:EOLhyphen"/>able
+<pb n="59" facs="tcp:119627:41"/>to thoſe great expences he pur<g ref="char:EOLhyphen"/>poſed to put him to, and his ſtock held out like the <hi>Iſraelites</hi> clothes,
+<note place="margin">Deut. 29.5.</note> it wore not out, it waxed not old on this ſide <hi>Canaan.</hi> No more of his patience, leſt I trouble yours.</p>
+                  <p>
+                     <hi>Perſeverance</hi> ſhall cloſe all: That's the laſt, but not the leaſt grace; more then a grace, a complication of many, the complement and perfection of all grace. It is this that lays hands on the <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>: Other graces run in the ce<g ref="char:EOLhyphen"/>leſtial courſe, but this ſeiſeth the priſe, and ſets the crown on the Conqueror's head. <hi>Perſeverance</hi> is grace ſcrued up to the higheſt pin; grace at ſtretch, and holding out to the laſt. Such was his, enduring to the end,
+<note place="margin">Mat. 24.13.</note> free from all ſuſpi<g ref="char:EOLhyphen"/>tion of deſpondencie, notwithſtanding thoſe many batteries and breaches made upon his walls of earth. All this was but <hi>Tundere vaſculum Anaxarchi, non Anaxarchum:</hi> This knocked but at the caſe, the casket, the carkaſs; the jewel was ſafe, his ſoul proſpered and did well: He <hi>poſſeſsed his ſoul in patience,</hi>
+                     <note place="margin">Luk. 21.19.</note> till his ſoul was diſpoſſeſſed of his body, and taken up into the prepared manſions,
+<note place="margin">Joh. 14.2.</note> there to reſt within the embraces of the
+<pb n="60" facs="tcp:119627:42"/>
+                     <hi>Everlaſting arms:</hi>
+                     <note place="margin">Deut. 33.27. Rev. 2.10.</note> He was <hi>faithful to the death,</hi> and hath now changed his Coronet for a <hi>Crown of life.</hi>
+                  </p>
+                  <p>It remains then that we contribute our dues to his fame. Let us decently commit to the Earth, what Heaven hath left of him:
+<note place="margin">Eccle. 44.14.</note> Let his Body reſt in peace, and let his Name live for evermore! Let his Vertues ſurvive in his Son, his Memory in the hearts and mouths of his Country! And when we can neither keep it nor our ſelves up any longer, let us make it over to ſucceſſion, and leave it for the children which ſhall be born, that the Generations to come may know how <hi>good,</hi> how <hi>great</hi> he was! He hath <hi>done worthily in Ephratah,</hi> let him be for ever <hi>famous in Beth-lehem!</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119627:42"/>
+         </div>
+      </body>
+   </text>
+</TEI>
